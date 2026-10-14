@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-10-14T23:58:03+00:00",
+  "note": "SYNTHETIC FIXTURE - fabricated changes to test the agent; not real citation data",
+  "current_snapshot": {
+    "path": "/home/claude/AEOindependentstudy/milestone4/tests/example_output/snapshot_b_SYNTHETIC.csv",
+    "date": "2099-01-08",
+    "rows": 524
+  },
+  "previous_snapshot": {
+    "path": "/home/claude/AEOindependentstudy/milestone4/tests/example_output/snapshot_a_SYNTHETIC.csv",
+    "date": "2099-01-01",
+    "rows": 524
+  },
+  "threshold_pp": 5.0,
+  "comparable_lens": {
+    "cohort": "legacy",
+    "prompts_in_both": 26,
+    "platforms_in_both": [
+      "chatgpt",
+      "google-ai-overviews",
+      "google-gemini"
+    ],
+    "rows_current": 454,
+    "rows_previous": 524,
+    "excluded_current": {
+      "rebrand_sim_rows": 40,
+      "other_rows": 30
+    },
+    "excluded_previous": {
+      "rebrand_sim_rows": 0,
+      "other_rows": 0
+    }
+  },
+  "categories": {
+    "BC-owned": {
+      "before_share_pct": 33.21,
+      "after_share_pct": 35.9,
+      "delta_pp": 2.7,
+      "delta_se_pp": 3.05,
+      "before_n": 174,
+      "after_n": 163,
+      "flagged": false
+    },
+    "earned media": {
+      "before_share_pct": 0.57,
+      "after_share_pct": 0.66,
+      "delta_pp": 0.09,
+      "delta_se_pp": 0.5,
+      "before_n": 3,
+      "after_n": 3,
+      "flagged": false
+    },
+    "education directory/ranking site": {
+      "before_share_pct": 24.24,
+      "after_share_pct": 22.25,
+      "delta_pp": -1.99,
+      "delta_se_pp": 2.7,
+      "before_n": 127,
+      "after_n": 101,
+      "flagged": false
+    },
+    "forum/community": {
+      "before_share_pct": 12.02,
+      "after_share_pct": 18.06,
+      "delta_pp": 6.04,
+      "delta_se_pp": 2.3,
+      "before_n": 63,
+      "after_n": 82,
+      "flagged": true
+    },
+    "competitor institution": {
+      "before_share_pct": 19.27,
+      "after_share_pct": 13.22,
+      "delta_pp": -6.06,
+      "delta_se_pp": 2.34,
+      "before_n": 101,
+      "after_n": 60,
+      "flagged": true
+    },
+    "other": {
+      "before_share_pct": 10.69,
+      "after_share_pct": 9.91,
+      "delta_pp": -0.78,
+      "delta_se_pp": 1.95,
+      "before_n": 56,
+      "after_n": 45,
+      "flagged": false
+    }
+  },
+  "flagged": [
+    {
+      "category": "competitor institution",
+      "before_share_pct": 19.27,
+      "after_share_pct": 13.22,
+      "delta_pp": -6.06,
+      "direction": "down"
+    },
+    {
+      "category": "forum/community",
+      "before_share_pct": 12.02,
+      "after_share_pct": 18.06,
+      "delta_pp": 6.04,
+      "direction": "up"
+    }
+  ]
+}
