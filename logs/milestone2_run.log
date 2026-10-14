@@ -1,0 +1,9 @@
+== Milestone 2: design doc + seed dataset
+saved
+wrote 26 rows
+raw citation rows for our 26 prompts: 546
+after dedup: 524
+wrote seed_dataset_raw.csv and seed_dataset.csv
+final category counts: {'earned media': 23, 'education directory/ranking site': 125, 'forum/community': 62, 'other': 37, 'competitor institution': 103, 'BC-owned': 174}
+rows flagged needs_review (not a confident domain match): 178 of 524
+PDF built

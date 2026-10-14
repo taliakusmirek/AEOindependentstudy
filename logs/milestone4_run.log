@@ -1,0 +1,19 @@
+== Milestone 4: tagging layer, tests, synthetic agent demo
+wrote /home/claude/AEOindependentstudy/milestone4/snapshots/2026-09-30.csv  (524 citations, model=baseline)
+  cohort: legacy=524
+  intent: recommendation=212, informational=178, comparison=134
+  platform: google-ai-overviews=187, chatgpt=183, google-gemini=154
+  predicted_category: BC-owned=174, education directory/ranking site=127, competitor institution=101, forum/community=63, other=56, earned media=3
+test_agent_refuses_out_of_order_snapshots (test_pipeline.AgentAndBrief.test_agent_refuses_out_of_order_snapshots) ... ok
+test_before_after_values_are_consistent (test_pipeline.AgentAndBrief.test_before_after_values_are_consistent) ... ok
+test_brief_carries_synthetic_banner (test_pipeline.AgentAndBrief.test_brief_carries_synthetic_banner) ... ok
+test_brief_has_five_fixed_sections_in_order (test_pipeline.AgentAndBrief.test_brief_has_five_fixed_sections_in_order) ... ok
+test_flags_exactly_the_planted_changes (test_pipeline.AgentAndBrief.test_flags_exactly_the_planted_changes) ... ok
+test_lens_excludes_rebrand_sim_and_new_platform_rows (test_pipeline.AgentAndBrief.test_lens_excludes_rebrand_sim_and_new_platform_rows) ... ok
+test_change_log_prompt_becomes_rebrand_sim (test_pipeline.Tagging.test_change_log_prompt_becomes_rebrand_sim) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 2.142s
+
+OK
+wrote /home/claude/AEOindependentstudy/milestone4/tests/example_output/diff_report.json and /home/claude/AEOindependentstudy/milestone4/tests/example_output/brief.md (SYNTHETIC; 33 competitor rows relabeled forum/community)

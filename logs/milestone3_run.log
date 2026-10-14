@@ -1,0 +1,17 @@
+== Milestone 3: classifier + evaluation report
+seed: 524 rows, 156 hosts | public: 1200 rows
+  primary split  baseline             acc=0.817 macroF1=0.706
+  primary split  learned_seed         acc=0.699 macroF1=0.511
+  primary split  learned_seed_public  acc=0.753 macroF1=0.608
+  primary split  hybrid_seed          acc=0.699 macroF1=0.511
+  primary split  hybrid_seed_public   acc=0.763 macroF1=0.626
+  naive random-row split (leaky) learned_seed acc=0.914
+  grouped CV     baseline             acc=0.884+/-0.000 accExclBC=0.826 macroF1=0.746
+  grouped CV     learned_seed         acc=0.723+/-0.009 accExclBC=0.629 macroF1=0.510
+  grouped CV     learned_seed_public  acc=0.465+/-0.006 accExclBC=0.679 macroF1=0.429
+  grouped CV     hybrid_seed          acc=0.748+/-0.008 accExclBC=0.623 macroF1=0.515
+  grouped CV     hybrid_seed_public   acc=0.787+/-0.005 accExclBC=0.682 macroF1=0.655
+better-performing model (mean grouped-CV accuracy): baseline
+manual_check_sheet.csv: 30 unseen domains (pool of 284)
+wrote results.json classified_output.csv manual_check_sheet.csv errors.csv model.joblib
+built eval_report.pdf
