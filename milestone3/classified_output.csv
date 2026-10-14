@@ -1,0 +1,525 @@
+domain,predicted_category,confidence,learned_predicted_category,learned_confidence,source_url,engine
+catholic-link.org,other,0.5,other,0.6392,"https://catholic-link.org/9-catholic-colleges-that-are-proud-to-be-catholic/#:~:text=20.%20Holy%20Apostles%20College%20and%20Seminary%20%7CCromwell%2C,at%20most%20schools%20across%20the%20United%20States.",Google Gemini
+www.niche.com,education directory/ranking site,1.0,education directory/ranking site,0.9176,"https://www.niche.com/blog/2026-niches-best-colleges-for-business-majors/#:~:text=Why%20It%20Stands%20Out%3A%20The%20Tepper%20School,computer%20science%20majors%20to%20tackle%20real%2Dworld%20challenges.",Google Gemini
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=9.06%25*%20Global%20Experience%20requirement%3A%20Mandatory%20study%20abroad,9.%20Kenan%2DFlagler%20Business%20School%2C%20UNC%20Chapel%20Hill.",Google Gemini
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=I%2DCore%3A%20A%2015%2Dweek%20immersive%20%E2%80%9Csprint%E2%80%9D%20across%20all,UIUC.%20Overall%3A%2036.59%25%20In%2Dstate%3A%2049.32%25%20Out%2Dof%2Dstate%3A%2029.03%25",Google Gemini
+www.niche.com,education directory/ranking site,1.0,education directory/ranking site,0.9176,"https://www.niche.com/blog/2026-niches-best-colleges-for-business-majors/#:~:text=Why%20It%20Stands%20Out%3A%20The%20Wharton%20School,environment%20where%20innovation%2C%20finance%2C%20and%20leadership%20converge.",Google Gemini
+www.varsitytutors.com,education directory/ranking site,1.0,education directory/ranking site,0.8094,"https://www.varsitytutors.com/colleges/rankings/best-liberal-arts-colleges#:~:text=*%20%235%20in%20Best%20Liberal%20Arts%20Colleges.,Liberal%20Arts%20Colleges.%20Bowdoin%20College.%20Brunswick%2C%20ME.",Google Gemini
+www.varsitytutors.com,education directory/ranking site,1.0,education directory/ranking site,0.8094,"https://www.varsitytutors.com/colleges/rankings/best-liberal-arts-colleges#:~:text=*%20%231%20in%20Best%20Liberal%20Arts%20Colleges.,Arts%20Colleges.%20Harvey%20Mudd%20College.%20Claremont%2C%20CA.",Google Gemini
+www.varsitytutors.com,education directory/ranking site,1.0,education directory/ranking site,0.8094,"https://www.varsitytutors.com/colleges/rankings/best-liberal-arts-colleges#:~:text=Harvey%20Mudd%20College.%20Claremont%2C%20CA.%20Private%20%7C,Net%20Price%3A%20%2418%2C246%20%7C%20SAT%20Range%3A%201490%2D1580.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9852,"https://blog.collegevine.com/best-liberal-arts-colleges#:~:text=An%20open%20curriculum%20has%20been%20a%20hallmark,just%20one%20mandatory%20class%3A%20a%20first%2Dyear%20seminar.",Google Gemini
+www.varsitytutors.com,education directory/ranking site,1.0,education directory/ranking site,0.8094,"https://www.varsitytutors.com/colleges/rankings/best-liberal-arts-colleges#:~:text=At%20Amherst%2C%20you%20craft%20your%20own%20intellectual,%7C%20SAT%20Range%3A%201490%2D1560.%20Visit%20School%20Website.",Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.6066,"https://www.reddit.com/r/ApplyingToCollege/comments/1neq9w7/which_top_uni_cherishes_deepthinking/#:~:text=John's%20College%20vs.%20St.%20John's%20University.%20I,curriculum%2C%20but%20others%20might%20not.%20arist0geiton.%20%E2%80%A2",Google Gemini
+www.reddit.com,forum/community,1.0,earned media,0.3804,"https://www.reddit.com/r/ApplyingToCollege/comments/1bn2o9z/which_top_colleges_are_truly_intellectual_and/#:~:text=%E2%80%A2%203y%20ago.%20Top%20LAC%20are%20very,Amherst%2C%20Pomona%2C%20Swarthmore.%20anonymussquidd.%20%E2%80%A2%203y%20ago.",Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.6066,"https://www.reddit.com/r/ApplyingToCollege/comments/1neq9w7/which_top_uni_cherishes_deepthinking/#:~:text=Earl%20Hall%20provides%20support%20to%20religious%2Fspiritual%20groups,and%20etc.%20*%20Murky_Gur_5845.%20%E2%80%A2%201y%20ago.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,"https://blog.collegevine.com/list-of-jesuit-colleges#:~:text=Most%20Prestigious%20Jesuit%20Colleges%20in%20the%20U.S.,diplomats%20than%20any%20other%20institution%20in%20history.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,"https://blog.collegevine.com/list-of-jesuit-colleges#:~:text=Location%3A%20Worcester%2C%20MA.%20Acceptance%20Rate%3A%2038%25%20Undergrad,to%20the%20city%20via%20the%20commuter%20rail.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,"https://blog.collegevine.com/list-of-jesuit-colleges#:~:text=Campus%20itself%20is%20a%20registered%20arboretum%20that,and%20what%20it%20takes%20to%20get%20accepted.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,"https://blog.collegevine.com/list-of-jesuit-colleges#:~:text=The%20oldest%20institution%20of%20higher%20learning%20in,the%20historic%20Mission%20Santa%20Clara%20de%20Asis.",Google Gemini
+www.collegetransitions.com,education directory/ranking site,1.0,education directory/ranking site,0.9796,"https://www.collegetransitions.com/blog/best-jesuit-colleges/#:~:text=Founded%20in%201855%2C%20the%20university%20joins%20this,being%20people%20for%20others%2C%20and%20diversity%20in",Google Gemini
+www.collegetransitions.com,education directory/ranking site,1.0,education directory/ranking site,0.9796,"https://www.collegetransitions.com/blog/best-jesuit-colleges/#:~:text=Founded%20in%201870%2C%20this%20university%20joins%20the,the%20greater%20Chicago%20area%20and%20Rome%2C%20Italy.",Google Gemini
+www.elearners.com,other,0.5,other,0.5084,"https://www.elearners.com/education-resources/strategies-for-online-students/degrees-for-do-gooders/#:~:text=Founded%20in%201898%2C%20Northeastern%20is%20a%20research,Canada.%20They%20also%20offer%20online%20degree%20programs.",Google Gemini
+www.elearners.com,other,0.5,other,0.5084,"https://www.elearners.com/education-resources/strategies-for-online-students/degrees-for-do-gooders/#:~:text=The%20Center%20for%20Social%20Justice%20has%20a,university%2Dsponsored%20service%20programs!%20*%202.%20Purdue%20University.",Google Gemini
+www.catholicunitedfinancial.org,other,0.5,other,0.4988,"https://www.catholicunitedfinancial.org/scholarships/#:~:text=We%20help%20our%20members%20achieve%20their%20educational,attending%20a%20non%2DCatholic%20college%2C%20university%20or%20institution.",Google Gemini
+www.scholarships.com,education directory/ranking site,1.0,other,0.3154,https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/religion/catholic,Google Gemini
+www.innercityscholarshipfund.org,education directory/ranking site,1.0,education directory/ranking site,0.6053,https://www.innercityscholarshipfund.org/scholarships/overview,Google AI Overviews
+www.catholicfundingguide.com,education directory/ranking site,1.0,other,0.6628,https://www.catholicfundingguide.com/how-to-find-funding-for-your-catholic-school/,Google AI Overviews
+www.reddit.com,forum/community,1.0,forum/community,0.3751,https://www.reddit.com/r/financialaid/comments/1tol01d/looking_for_schools_where_i_can_get_decent_merit/,Google AI Overviews
+www.lacatholicschools.org,other,0.5,competitor institution,0.6715,https://www.lacatholicschools.org/about/tuition-assistance,Google AI Overviews
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/p/DdaJI2Bl5tT/,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.7615,https://www.facebook.com/ThomasMoreKY/videos/nope-were-not-buying-it-thomas-more-is-a-leading-catholic-liberal-arts-instituti/997563805560231/,Google AI Overviews
+www.collegeraptor.com,education directory/ranking site,1.0,education directory/ranking site,0.8055,https://www.collegeraptor.com/scholarships/Ave-Maria-University-FL--446048/Eastern-Catholic-Brilliant-Jewel-Scholarship--349651/,Google AI Overviews
+newsroom.haas.berkeley.edu,competitor institution,1.0,competitor institution,0.8609,https://newsroom.haas.berkeley.edu/u-s-news-ranks-haas-undergraduate-program-3/?utm_source=chatgpt.com,ChatGPT
+poetsandquantsforundergrads.com,education directory/ranking site,1.0,education directory/ranking site,0.8986,https://poetsandquantsforundergrads.com/news/best-undergraduate-business-schools-of-2026/6/?utm_source=chatgpt.com,ChatGPT
+poetsandquantsforundergrads.com,education directory/ranking site,1.0,education directory/ranking site,0.9561,https://poetsandquantsforundergrads.com/rankings/u-s-news-2026-best-business-schools-ranking-mit-joins-wharton-at-the-top/3/?utm_source=chatgpt.com,ChatGPT
+poetsandquantsforundergrads.com,education directory/ranking site,1.0,education directory/ranking site,0.9561,https://poetsandquantsforundergrads.com/rankings/u-s-news-2026-best-business-schools-ranking-mit-joins-wharton-at-the-top/?utm_source=chatgpt.com,ChatGPT
+www.jesuiteducated.com,other,0.5,other,0.4045,https://www.jesuiteducated.com/find-a-school?utm_source=chatgpt.com,ChatGPT
+ajcunet.edu,competitor institution,1.0,competitor institution,0.9794,https://ajcunet.edu/2020-3-4-saint-josephs-university-thematic/?utm_source=chatgpt.com,ChatGPT
+ajcunet.edu,competitor institution,1.0,competitor institution,0.9813,https://ajcunet.edu/2020-2-14-creighton-thematic/?utm_source=chatgpt.com,ChatGPT
+ajcunet.edu,competitor institution,1.0,competitor institution,0.9953,https://ajcunet.edu/march-2020-connections-service-learning/?utm_source=chatgpt.com,ChatGPT
+ajcunet.edu,competitor institution,1.0,competitor institution,0.9869,https://ajcunet.edu/formation_program/global-outreach-fordham/?utm_source=chatgpt.com,ChatGPT
+www.regis.edu,competitor institution,1.0,competitor institution,0.9836,https://www.regis.edu/about/jesuit-education/our-catholic-identity?utm_source=chatgpt.com,ChatGPT
+www.marquette.edu,competitor institution,1.0,competitor institution,0.9804,https://www.marquette.edu/mission-ministry/catholic-jesuit-identity.php?utm_source=chatgpt.com,ChatGPT
+catalog.regis.edu,competitor institution,1.0,competitor institution,0.7515,https://catalog.regis.edu/jesuit-colleges-universities/?utm_source=chatgpt.com,ChatGPT
+ajcunet.edu,competitor institution,1.0,competitor institution,0.9918,https://ajcunet.edu/formation_program/community-engaged-learning-fairfield/?utm_source=chatgpt.com,ChatGPT
+www.amherst.edu,competitor institution,1.0,competitor institution,0.9008,https://www.amherst.edu/system/files/2023-10/Amherst%20College%20Collaboration%20Agreement%202023%20%281%29.pdf?utm_source=chatgpt.com,ChatGPT
+www.williams.edu,competitor institution,1.0,competitor institution,0.9784,https://www.williams.edu/academics/undergraduate-study/tutorials/?utm_source=chatgpt.com,ChatGPT
+www.swarthmore.edu,competitor institution,1.0,competitor institution,0.9782,https://www.swarthmore.edu/academics/first-year-experience?utm_source=chatgpt.com,ChatGPT
+www.swarthmore.edu,competitor institution,1.0,competitor institution,0.9597,https://www.swarthmore.edu/sites/default/files/assets/documents/honors-program/Honors%20Handbook.pdf?utm_source=chatgpt.com,ChatGPT
+www.bowdoin.edu,competitor institution,1.0,competitor institution,0.9959,https://www.bowdoin.edu/academics/the-bowdoin-curriculum/index.html?utm_source=chatgpt.com,ChatGPT
+catalog.williams.edu,competitor institution,1.0,competitor institution,0.8386,https://catalog.williams.edu/tut/?utm_source=chatgpt.com,ChatGPT
+connection.newmanministry.com,other,0.5,other,0.5626,https://connection.newmanministry.com/find-a-campus/?utm_source=chatgpt.com,ChatGPT
+archsa.org,other,0.5,competitor institution,0.5278,https://archsa.org/campus-ministry/?utm_source=chatgpt.com,ChatGPT
+www.catholic.edu,competitor institution,1.0,competitor institution,0.9988,https://www.catholic.edu/faith-service/campus-ministry?utm_source=chatgpt.com,ChatGPT
+austindiocese.org,other,0.5,competitor institution,0.5373,https://austindiocese.org/campus-ministry?utm_source=chatgpt.com,ChatGPT
+udallas.edu,competitor institution,1.0,competitor institution,0.9416,https://udallas.edu/faith-service/our-catholic-faith/index.php?utm_source=chatgpt.com,ChatGPT
+www.fordham.edu,competitor institution,1.0,competitor institution,0.9957,https://www.fordham.edu/about/living-the-mission/campus-ministry/?utm_source=chatgpt.com,ChatGPT
+udallas.smartcatalogiq.com,other,0.5,competitor institution,0.5433,https://udallas.smartcatalogiq.com/en/2024-2025/academic-catalog/campus-life/campus-ministry?utm_source=chatgpt.com,ChatGPT
+www.sjc.edu,competitor institution,1.0,competitor institution,0.9938,https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list?utm_source=chatgpt.com,ChatGPT
+college.uchicago.edu,competitor institution,1.0,competitor institution,0.9395,https://college.uchicago.edu/academics/core/humanities-core?utm_source=chatgpt.com,ChatGPT
+www.sjc.edu,competitor institution,1.0,competitor institution,0.9972,https://www.sjc.edu/admissions-and-aid/undergraduate-admissions?utm_source=chatgpt.com,ChatGPT
+www.sjc.edu,competitor institution,1.0,competitor institution,0.9948,https://www.sjc.edu/academic-programs/undergraduate?utm_source=chatgpt.com,ChatGPT
+www.sjc.edu,competitor institution,1.0,competitor institution,0.9948,https://www.sjc.edu/academic-programs/undergraduate/subjects/philosophy-theology-psychology?utm_source=chatgpt.com,ChatGPT
+collegecatalog.uchicago.edu,competitor institution,1.0,competitor institution,0.7999,https://collegecatalog.uchicago.edu/thecollege/bigproblems/?utm_source=chatgpt.com,ChatGPT
+www.neumann.edu,competitor institution,1.0,competitor institution,0.9666,https://www.neumann.edu/mission/outreach/default.asp?utm_source=chatgpt.com,ChatGPT
+tabor.edu,competitor institution,1.0,competitor institution,0.987,https://tabor.edu/about/?utm_source=chatgpt.com,ChatGPT
+www.neumann.edu,competitor institution,1.0,competitor institution,0.9855,https://www.neumann.edu/academics/service-learning/default.asp?utm_source=chatgpt.com,ChatGPT
+www.madonna.edu,competitor institution,1.0,competitor institution,0.9941,https://www.madonna.edu/admissions/on-campus-experience/mission-and-service/?utm_source=chatgpt.com,ChatGPT
+www.creighton.edu,competitor institution,1.0,competitor institution,0.9626,https://www.creighton.edu/about/mission-history?utm_source=chatgpt.com,ChatGPT
+www.mercer.edu,competitor institution,1.0,competitor institution,0.9895,https://www.mercer.edu/about-mercer/mission-and-vision/?utm_source=chatgpt.com,ChatGPT
+www.reuters.com,earned media,1.0,education directory/ranking site,0.3434,https://www.reuters.com/markets/on-the-money/ak-lauren-can-i-ask-college-more-merit-aid-2026-04-08/?utm_source=chatgpt.com,ChatGPT
+www.stonehill.edu,competitor institution,1.0,competitor institution,0.9702,https://www.stonehill.edu/apply-for-admission/first-year-applicants/archdiocese/archdiocese-of-philadelphia/?utm_source=chatgpt.com,ChatGPT
+www.collegesimply.com,education directory/ranking site,1.0,education directory/ranking site,0.9174,https://www.collegesimply.com/colleges/compare/franciscan-university-of-steubenville-vs-ave-maria-university-vs-catholic-university-of-america?utm_source=chatgpt.com,ChatGPT
+www.holycross.edu,competitor institution,1.0,competitor institution,0.9622,https://www.holycross.edu/admissions-aid/tuition-financial-aid?utm_source=chatgpt.com,ChatGPT
+financial-aid.catholic.edu,competitor institution,1.0,competitor institution,0.8584,https://financial-aid.catholic.edu/undergraduate/?utm_source=chatgpt.com,ChatGPT
+admission.providence.edu,competitor institution,1.0,competitor institution,0.7477,https://admission.providence.edu/tuition-aid/?utm_source=chatgpt.com,ChatGPT
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/reel/DbopBVsk_tP/?hl=en,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.5144,https://www.usnews.com/best-colleges/rankings/business-overall,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/shorts/NYdMyCnd9QM,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/shorts/8C_St8cdbgA,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.5144,https://www.usnews.com/best-colleges/rankings/business,Google AI Overviews
+poetsandquantsforundergrads.com,education directory/ranking site,1.0,education directory/ranking site,0.9036,https://poetsandquantsforundergrads.com/rankings/ranking-u-s-news-best-undergraduate-business-programs-of-2025/3/,Google AI Overviews
+poetsandquants.com,education directory/ranking site,1.0,education directory/ranking site,0.9316,https://poetsandquants.com/2026/03/26/poetsquants-best-undergraduate-business-schools-of-2026/6/?utm_source=chatgpt.com,ChatGPT
+globalcatholicresourcecenter.com,other,0.5,earned media,0.5627,https://globalcatholicresourcecenter.com/the-catholic-ivy-league/,Google AI Overviews
+www.benedictine.edu,competitor institution,1.0,competitor institution,0.9694,https://www.benedictine.edu/about/benedictine-2020/vision-greatness,Google AI Overviews
+lacatholics.org,other,0.5,other,0.5502,https://lacatholics.org/2024/08/30/thomas-aquinas-college-ranks-no-1-in-most-conservative-students/,Google AI Overviews
+college.georgetown.edu,competitor institution,1.0,competitor institution,0.9153,https://college.georgetown.edu/news-story/an-interdisciplinary-approach-to-lifes-big-questions/,Google AI Overviews
+news.yale.edu,competitor institution,1.0,competitor institution,0.8472,https://news.yale.edu/2017/10/10/participants-ponder-big-questions-first-life-worth-living-retreat,Google AI Overviews
+news.yale.edu,competitor institution,1.0,competitor institution,0.9322,https://news.yale.edu/2016/02/23/personal-way-students-tackle-question-what-makes-life-worth-living,Google AI Overviews
+www.bsu.edu,competitor institution,1.0,competitor institution,0.9941,https://www.bsu.edu/web/bsudatastream?ds=kPN4UaHUUzVzQwlGsASCrGFAJuUPKDwGrHVnbx6G4PuRkA2aaUFa0nhr5QDEABm7%2F%2FNIGK3DF011OD9SSAmSL6yviihKr5F3FwJ4hWrheHNxEbovJeFVQ9nyEUpEp1lN,Google AI Overviews
+www.nytimes.com,earned media,1.0,earned media,0.8928,https://www.nytimes.com/2019/06/21/opinion/letters/college-education.html,Google AI Overviews
+www.chronicle.com,earned media,1.0,earned media,0.5244,https://www.chronicle.com/blogs/letters/several-colleges-already-teach-the-big-questions-of-life,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.9852,https://www.usnews.com/best-colleges/philosophy-major-3801,Google AI Overviews
+lifeworthliving.yale.edu,competitor institution,1.0,competitor institution,0.7965,https://lifeworthliving.yale.edu/yale-college-courses,Google AI Overviews
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,https://www.ivywise.com/blog/best-business-schools-us-undergraduate/,Google AI Overviews
+research.com,other,0.5,forum/community,0.5217,https://research.com/student-guides/education-explainers/hardest-business-major-complete-student-guide,Google AI Overviews
+toptieradmissions.com,education directory/ranking site,1.0,education directory/ranking site,0.4158,https://toptieradmissions.com/what-are-the-best-jesuit-schools/,Google AI Overviews
+ajcunet.edu,competitor institution,1.0,competitor institution,0.9912,https://ajcunet.edu/about/colleges-universities/,Google AI Overviews
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,https://blog.collegevine.com/list-of-jesuit-colleges,Google AI Overviews
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/reel/DXZzfVpmCrK/,Google AI Overviews
+blog.prepscholar.com,other,0.5,education directory/ranking site,0.3906,https://blog.prepscholar.com/list-of-jesuit-colleges,Google AI Overviews
+www.ivyscholars.com,education directory/ranking site,1.0,education directory/ranking site,0.5883,https://www.ivyscholars.com/americas-top-jesuit-colleges/,Google AI Overviews
+scholarships360.org,education directory/ranking site,1.0,education directory/ranking site,0.3666,https://scholarships360.org/college-admissions/jesuit-colleges/,Google AI Overviews
+www.jesuitswest.org,education directory/ranking site,1.0,other,0.6312,https://www.jesuitswest.org/press-release/four-jesuit-universities-ranked-among-top-8-in-the-western-us/,Google AI Overviews
+www.berea.edu,competitor institution,1.0,competitor institution,0.9933,https://www.berea.edu/centers/center-for-excellence-in-learning-through-service/service-learning,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/watch?v=KTI5SXBjM74&t=74,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.9603,https://www.usnews.com/best-colleges/rankings/service-learning-programs,Google AI Overviews
+www.princetonreview.com,education directory/ranking site,1.0,earned media,0.5764,https://www.princetonreview.com/college-rankings/?rankings=most-engaged-in-community-service,Google AI Overviews
+www.berea.edu,competitor institution,1.0,competitor institution,0.9919,https://www.berea.edu/mountaineer-news/news/berea-college-earns-2026-carnegie-community-engagement-classification-strengthens-ties-with-local-and-regional-partners,Google AI Overviews
+www.berea.edu,competitor institution,1.0,competitor institution,0.9938,https://www.berea.edu/centers/center-for-excellence-in-learning-through-service/service-opportunities,Google AI Overviews
+www.berea.edu,competitor institution,1.0,competitor institution,0.9935,https://www.berea.edu/centers/center-for-excellence-in-learning-through-service,Google AI Overviews
+www.berea.edu,competitor institution,1.0,competitor institution,0.996,https://www.berea.edu/mountaineer-news/news/berea-college-ranked-no-1-in-best-value-and-service-learning-by-u-s-news-world-report,Google AI Overviews
+www.greatvaluecolleges.net,education directory/ranking site,1.0,other,0.3996,https://www.greatvaluecolleges.net/us-colleges-excelling-at-community-outreach/,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.6793,https://www.facebook.com/usnewsandworldreport/posts/2026-best-liberal-arts-colleges/1207826934546357/,Google AI Overviews
+www.reddit.com,forum/community,1.0,earned media,0.4717,https://www.reddit.com/r/ApplyingToCollege/comments/3cxc8g/recommend_some_good_liberal_arts_schools/,Google AI Overviews
+www.wsj.com,education directory/ranking site,1.0,earned media,0.8376,https://www.wsj.com/articles/northeast-rules-in-wsj-the-ranking-of-liberal-arts-schools-1536188418,Google AI Overviews
+www.academicjobs.com,education directory/ranking site,1.0,earned media,0.4811,https://www.academicjobs.com/en-us/higher-education-news/best-liberal-arts-colleges-us-2026-academicjobs-23061,Google AI Overviews
+www.dcurbanmom.com,forum/community,1.0,forum/community,0.5269,https://www.dcurbanmom.com/jforum/posts/list/30/982563.page,Google AI Overviews
+www.newsweek.com,education directory/ranking site,1.0,earned media,0.7116,https://www.newsweek.com/100-best-liberal-arts-colleges-america-1615330,Google AI Overviews
+www.littleivycolleges.com,education directory/ranking site,1.0,education directory/ranking site,0.8052,https://www.littleivycolleges.com/blog//liberal-arts-college-rankings-stem-weighted-2026,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html#:~:text=Table_title%3A%20Constructing%20Financial%20Aid%20Awards%20Table_content%3A%20%7C,%7C%20%2415%2C985%20%7C%20%242%2C818%20%7C%20%7C%20Books%2Fmisc.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html#:~:text=%7C%20%243%2C300%20%7C%20%243%2C300%20%7C%20%243%2C300%20%7C,per%20day%20into%20the%20cost%20of%20attendance.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html#:~:text=Table_title%3A%20Boston%20College%20Indirect%20Costs%20Table_content%3A%20%7C,%7C%20%7C%20Loan%20Fees*%20%7C%20%2451%20%7C",Google Gemini
+eduniversal-ranking.com,education directory/ranking site,1.0,other,0.6786,"https://eduniversal-ranking.com/boston-college-carroll-school-of-management-ranking.html#:~:text=Its%20programs%20consistently%20achieve%20**high%20national%20rankings**%2C,Ranking.%20M.S.%20in%20Leadership.%20MS%20in%20Accounting.",Google Gemini
+www.aacsb.edu,competitor institution,1.0,competitor institution,0.9631,"https://www.aacsb.edu/accredited/b/boston-college#:~:text=Format.%20Private.%203%2C227.%20The%20Carroll%20School%20of,critical%20thinking%20skills%20and%20fostering%20ethical%20leadership.",Google Gemini
+eduniversal-ranking.com,education directory/ranking site,1.0,other,0.6786,"https://eduniversal-ranking.com/boston-college-carroll-school-of-management-ranking.html#:~:text=Eduniversal%20Insight%20on%20Boston%20College%20Carroll%20School,integrates%20**ethical%20reasoning**%20with%20high%2Dlevel%20analytical%20training.",Google Gemini
+eduniversal-ranking.com,education directory/ranking site,1.0,other,0.6786,"https://eduniversal-ranking.com/boston-college-carroll-school-of-management-ranking.html#:~:text=Students%20benefit%20from%20a%20reliable%20internship%20pipeline,job%20searches%2C%20networking%20strategy%2C%20and%20offer%20negotiation.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/admission/z_archive/admissio-v5.html#:~:text=Snapshot%20of%20the%20Class%20of%202029%20*,5%20US%20territories)%20*%2013.9%25%20Acceptance%20rate.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/admission/apply/admission-statistics.html#:~:text=The%20admission%20process%20at%20Boston%20College%20is,48.%20States.%2060.%20Countries.%201%2C342.%20High%20Schools.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/apply/admission-statistics.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/common-data-set.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html#:~:text=*%20Step%202%3A%20Complete%20the%20Free%20Application,Boston%20College%20does%20not%20provide%20fee%20waivers.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html#:~:text=Applying%20for%20Aid.%20Boston%20College%20awards%20need%2Dbased,aid%20through%20this%20office.%20Financial%20Aid%20Forms.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html#:~:text=*%20Pell%20Grant.%20Federal%20Pell%20Grants%20are,an%20additional%20Pell%20Grant%20in%20the%20summer.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/graduate/types-of-financial-aid.html#:~:text=If%20a%20student%20works%20two%20jobs%2C%20whether,per%20week%20while%20school%20is%20in%20session.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/types-of-financial-aid.html#:~:text=Sources%20for%20outside%20scholarships%20can%20include%20high,benefits%20from%20other%20institutions%2C%20as%20outside%20scholarships.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/graduate/types-of-financial-aid.html#:~:text=*%20Outside%20Aid.%20*%20Veterans'%20Education%20Benefits.,information%20on%20the%20Graduate%20Student%20Life%20website.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/graduate/applying-for-aid.html#:~:text=Boston%20College's%20school%20code%20is%20002128.%20Available,electronically%20sign%20your%20FAFSA%20or%20Renewal%20FAFSA.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html#:~:text=Boston%20College's%20Profile%20code%20is%203083.%20Available,CSS%20profile%2C%20please%20visit%20cssprofile.collegeboard.org%2Fgetting%2Dstarted.%20CSS%20Profile.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/graduate/types-of-financial-aid.html#:~:text=There%20are%20a%20variety%20of%20funding%20opportunities,the%20individual%20graduate%20schools%20or%20law%20school.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html#:~:text=If%20your%20biological%2Fadopted%20parents%20are%20divorced%2C%20separated%2C,parents%20is%20located%20on%20the%20IDOC%20portal.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/financial-aid.html,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/types-of-financial-aid.html#:~:text=Federal%20Direct%20PLUS%20Loans.%20Direct%20PLUS%20loans,starts%20accruing%20at%20the%20loan's%20first%20disbursement.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/majors-minors.html,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/academics/programs.html#:~:text=The%20Computer%20Science%20Department%20offers%20an%20undergraduate,Minor.%20*%20Data%20Science%20Minor.%20*%20Concentrations.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/academics/programs.html#:~:text=Computer%20science%20majors%20pursuing%20a%20Bachelor%20of,Computation.%20*%20Randomness%20and%20Computation.%20*%20Algorithms.",Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.4414,"https://www.reddit.com/r/umass/comments/6dohuk/umass_amherst_vs_boston_university_computer/#:~:text=9y%20ago.%20I%20disagree.%20Why%20would%20BU,certain%20University%20just%20because%20it's%20perceived%20as%22better%22.",Google Gemini
+www.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.7323,https://www.collegevine.com/faq/21898/bc-vs-umass-amherst-pros-and-cons,Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.3937,"https://www.reddit.com/r/amherstcollege/comments/1sjrswf/deciding_between_amherst_vs_boston_college/#:~:text=wavybattery.%20%E2%80%A2%206mo%20ago.%20Amherst%20is%20better,Peter%20Pan%20bus%20away!%20Patient_Possible_598.%206mo%20ago.",Google Gemini
+www.facebook.com,forum/community,1.0,forum/community,0.9498,"https://www.facebook.com/groups/1688114615260114/posts/2196522424419328/#:~:text=Boston%20is%20a%20great%20place%20to%20go,that%20can%20make%20college%20life%20more%20enjoyable).",Google Gemini
+www.facebook.com,forum/community,1.0,forum/community,0.9498,"https://www.facebook.com/groups/1688114615260114/posts/2196522424419328/#:~:text=Pick%20a%20school%20that%20is%20forward%20looking,153.%20UMass%20is%20much%20better%20for%20CS.",Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.4414,"https://www.reddit.com/r/umass/comments/6dohuk/umass_amherst_vs_boston_university_computer/#:~:text=9y%20ago.%20It%20doesn't%20really%20matter%20that,they%20are%20largely%20based%20on%20graduate%20programs.",Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.4646,https://www.reddit.com/r/bostoncollege/comments/ga5liq/housing_options_and_benefits/,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/bc-residence-halls.html#:~:text=Duchesne%20Hall%20(East%20%26%20West)%20*%20Single%2C,freshman%20students.%20*%20Located%20on%20Newton%20Campus.",Google Gemini
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/watch?v=HDuNJYHBxsI,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/bc-residence-halls.html#:~:text=Situated%20on%20Upper%20Campus%2C%20Kostka%20is%20home,and%20quads.%20Available%20to%20first%2Dyear%20students%20only.",Google Gemini
+thestudentsublet.com,other,0.5,earned media,0.6644,"https://thestudentsublet.com/blog/student-housing-guide-boston-college#:~:text=Brighton%20requires%20more%20reliance%20on%20the%20T.,where%20the%20bike%20lane%20disappears%20in%20places.",Google Gemini
+blog.prepscholar.com,other,0.5,education directory/ranking site,0.3906,"https://blog.prepscholar.com/list-of-jesuit-colleges#:~:text=LMU%20has%20a%20student%2Ffaculty%20ratio%20of%2010%3A1%2C,journalism.%20*%20Loyola%20Marymount%20University%20Admission%20Requirements.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,"https://blog.collegevine.com/list-of-jesuit-colleges#:~:text=*%204.%20Fordham%20University.%20Location%3A%20New%20York,take%20graduate%20courses%20and%20complete%20dual%2Ddegree%20programs.",Google Gemini
+toptieradmissions.com,education directory/ranking site,1.0,education directory/ranking site,0.4158,"https://toptieradmissions.com/what-are-the-best-jesuit-schools/#:~:text=Location%3A%20Santa%20Clara%2C%20CA.%20Undergraduate%20Enrollment%3A%205%2C500.,consciousness%20grounded%20in%20the%20Jesuit%20educational%20tradition.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9827,"https://blog.collegevine.com/list-of-jesuit-colleges#:~:text=Georgetown%20also%20hosts%20The%20Corp%2C%20the%20largest,doctoral%20degrees%20to%20over%2014%2C000%20students%20annually.",Google Gemini
+www.collegetransitions.com,education directory/ranking site,1.0,education directory/ranking site,0.9796,"https://www.collegetransitions.com/blog/best-jesuit-colleges/#:~:text=Gonzaga%20University%20focuses%20on%20preparing%20%E2%80%9Cstudents%20to,in%20its%20efforts%20to%20embrace%20people%20of",Google Gemini
+www.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9889,"https://www.collegevine.com/faq/47952/is-notre-dame-a-jesuit-university#:~:text=Notre%20Dame%20emphasizes%20the%20integration%20of%20faith,others.%20Good%20luck%20in%20your%20college%20search!",Google Gemini
+www.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9889,"https://www.collegevine.com/faq/47952/is-notre-dame-a-jesuit-university#:~:text=Is%20Notre%20Dame%20a%20Jesuit%20university%2C%20or,which%20is%20a%20Roman%20Catholic%20religious%20order.",Google Gemini
+www.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9846,https://www.collegevine.com/faq/99355/religious-aspects-of-notre-dame-is-it-catholic,Google Gemini
+www.reddit.com,forum/community,1.0,forum/community,0.3493,https://www.reddit.com/r/bostoncollege/comments/20cv09/what_is_boston_colleges_social_life_like/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/campus-life/housing-and-dining.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/campus-life.html,Google AI Overviews
+catholic-link.org,other,0.5,other,0.6392,"https://catholic-link.org/9-catholic-colleges-that-are-proud-to-be-catholic/#:~:text=21%20Catholic%20Colleges%20That%20Are%20Proud%20To,*%20International%20Theological%20Institute%20%7C%20Trumau%2C%20Austria.",Google Gemini
+catholic-link.org,other,0.5,other,0.6392,https://catholic-link.org/9-catholic-colleges-that-are-proud-to-be-catholic/#:~:text=1.%20Christendom%20College%20%7C%20Front%20Royal%2C%20Virginia.%202.,Google Gemini
+catholic-link.org,other,0.5,other,0.6392,"https://catholic-link.org/9-catholic-colleges-that-are-proud-to-be-catholic/#:~:text=7.%20Thomas%20Aquinas%20College%20%7C%20Santa%20Paula%2C,Thomas%20More%20College%20%7C%20Merrimack%2C%20New%20Hampshire.",Google Gemini
+connection.newmanministry.com,other,0.5,other,0.5626,"https://connection.newmanministry.com/find-a-campus/#:~:text=Don't%20Navigate%20Your%20College%20Journey%20Alone!%20Join,in%20the%20search%20field%20below.%202710%20results.",Google Gemini
+empowerly.com,other,0.5,other,0.4948,"https://empowerly.com/applications/bc-vs-bu/#:~:text=*%20Prioritize%20Boston%20University%20if%20you%20prefer,arts%20while%20BU%20provides%20more%20research%2Ddriven%20opportunities.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8633,"https://blog.collegevine.com/boston-college-vs-boston-university#:~:text=Location%20and%20Weather.%20Boston%20College%20vs.%20Boston,ride%20to%20locals)%20from%20the%20city%20proper.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=BC%20requires%20all%20students%20to%20take%202,BU%20has%20no%20theology%20or%20philosophy%20requirements.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8633,"https://blog.collegevine.com/boston-college-vs-boston-university#:~:text=Boston%20College%20is%20an%20especially%20strong%20choice,counted%20among%20the%20nation's%20coolest%20college%20libraries.",Google Gemini
+www.universityliving.com,education directory/ranking site,1.0,education directory/ranking site,0.4699,"https://www.universityliving.com/blog/admission-guide/boston-college-vs-boston-university/#:~:text=On%20the%20other%20hand%2C%20Boston%20University's%20housing,College%20vs%20Boston%20University%3A%20Feature.%20Boston%20College.",Google Gemini
+empowerly.com,other,0.5,other,0.4948,"https://empowerly.com/applications/bc-vs-bu/#:~:text=The%20consistent%20thread%3F%20Students%20at%20both%20schools,internship%20pipelines%2C%20research%20opportunities%2C%20and%20academic%20breadth.",Google Gemini
+empowerly.com,other,0.5,other,0.4948,"https://empowerly.com/applications/bc-vs-bu/#:~:text=Student%20Life%20*%20Boston%20College%20offers%20a,campus%20environment%20with%20a%20strong%20residential%20life.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=Both%20schools%20are%20test%2Doptional.%20The%20big%20difference%3A,a%20significant%20admissions%20advantage%20for%20ED%20applicants.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=BU%20is%2043%25%20White%20with%2020%25%20international,more%20first%2Dgeneration%20(20%25)%20and%20Pell%20Grant%2Deligible%20students.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=The%20social%20scenes%20are%20fundamentally%20different%3A%20Greek,Greek%20housing)%20BC%3A%20Greek%20life%20is%20banned.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=BU's%20strength%20is%20breadth.%20Graduates%20spread%20across,affiliated%20medical%20school%20of%20its%20own.%2010.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=BC's%20median%20salary%2010%20years%20after%20graduation,including%20medicine%2C%20media%2C%20engineering%2C%20and%20public%20health.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=Boston%20College%20explicitly%20bans%20fraternities%20and%20sororities.,though%20they%20are%20non%2Dresidential%20(no%20chapter%20houses).",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=This%20is%20often%20the%20deciding%20factor%20for,and%20city%20%2D%2D%20BU%20IS%20the%20city.",Google Gemini
+empowerly.com,other,0.5,other,0.4948,"https://empowerly.com/applications/bc-vs-bu/#:~:text=BU.%20The%20rivalry%20between%20BC%20vs.%20BU,but%20competitive%20relationship%20between%20the%20two%20universities.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=BC%20ranks%20%2336%20in%20US%20News%20(vs,research%20(%24579.5M%20vs%20%2479M)%20and%20global%20reputation.",Google Gemini
+guidetobu.com,education directory/ranking site,1.0,other,0.4397,"https://guidetobu.com/comparison/bu-vs-bc/#:~:text=BU's%20acceptance%20rate%20is%2012.83%25%20and%20BC's,(76%2C779%20vs%2039%2C681).%20Both%20are%20extremely%20selective.",Google Gemini
+www.collegetuitioncompare.com,education directory/ranking site,1.0,education directory/ranking site,0.6799,https://www.collegetuitioncompare.com/compare/rivalry/boston-college-vs-boston-university/,Google Gemini
+empowerly.com,other,0.5,other,0.4948,"https://empowerly.com/applications/bc-vs-bu/#:~:text=One%20of%20the%20major%20facets%20of%20your,play%20a%20huge%20role%20in%20campus%20culture.",Google Gemini
+www.elearners.com,other,0.5,other,0.5084,"https://www.elearners.com/education-resources/strategies-for-online-students/degrees-for-do-gooders/#:~:text=Students%20may%20choose%20from%20more%20than%20200,that%20makes%20practical%20use%20of%20their%20education.",Google Gemini
+engage.vt.edu,competitor institution,1.0,competitor institution,0.935,https://engage.vt.edu/programs.html,Google Gemini
+www.elearners.com,other,0.5,other,0.5084,"https://www.elearners.com/education-resources/strategies-for-online-students/degrees-for-do-gooders/#:~:text=Georgetown%20was%20founded%20in%201789%20and%20is,outreach%20to%20after%20school%20programs%20for%20kids.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/Global-Engagement.html#:~:text=International%20Engagement%20*%20313.%20international%20faculty%20and,students%20participated%20in%20an%20international%20service%20trip.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=BC%20in%20Paris%3A%20Universit%C3%A9%20de%20Paris%20IX%2C,Mansfield%20College.%20University%20of%20Liverpool.%20*%20Greece.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/schools/morrissey/sites/isp/academics/study-abroad.html#:~:text=(Even%20if%20you're%20taking%20classes%20in%20English%2C,provide%20a%20foundation%20for%20a%20senior%20thesis.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=Introducing%20our%20new%20BC%20Programs%20*%20Fu,among%20the%20top%20institutions%20in%20the%20PRC.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=BC%20in%20Dublin%3A%20University%20College%20Dublin%20(UCD),Parma.%20Venice%20International%20University.%20*%20The%20Netherlands.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=Lancaster%20University%20University%20of%20Edinburgh.%20*University%20of,University%20College%20Cork.%20*%20Italy.%20Universit%C3%A0%20Bocconi.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=Affiliate%3A%20(SIT%2FIHP)%20Death%20and%20Dying%3A%20Perspectives%2C%20Practices%2C,Human%20Rights.%20*%20Morocco.%20Al%20Akhawayn%20University.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=With%20courses%20in%20both%20English%20and%20German%2C,Nanjing.%20Courses%20in%20English%20are%20also%20available.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/getting-started.html#:~:text=There's%20no%20better%20way%20to%20learn%20about,Junior.%20Major%3A%20Economics%2C%20Political%20Science%2C%20Finance.%20Minor%3A",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/about.html,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=*%20Cameroon.%20Affiliate%3A%20(SIT)%20Development%20and%20Social,and%20the%20Future%20of%20the%20Middle%20East.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=Nova%20School%20of%20Business%20%26%20Economics%2C%20Lisbon.,Social%20Science)%20BC%20in%20Madrid%3A%20Carlos%20III.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html#:~:text=*%20Czech%20Republic.%20Charles%20University%3A%20East%20and,in%20Paris%3A%20Universit%C3%A9%20de%20Paris%20IX%2C%20Dauphine.",Google Gemini
+www.collegesimply.com,education directory/ranking site,1.0,education directory/ranking site,0.9862,https://www.collegesimply.com/colleges/compare/boston-college-vs-college-of-the-holy-cross,Google Gemini
+www.sofi.com,other,0.5,forum/community,0.4544,"https://www.sofi.com/boston-college-tuition-and-fees/#:~:text=Total%20Cost%20of%20Attendance.%20Boston%20College%20cost,%241%2C250.%20Room%20%26%20Board.%20%2415%2C658.%20Other%20Expenses.",Google Gemini
+www.quora.com,forum/community,1.0,earned media,0.5749,https://www.quora.com/Is-the-education-at-Harvard-really-better-than-at-smaller-liberal-arts-colleges-like-Amherst-or-Williams,Google AI Overviews
+pathways2advancement.org,education directory/ranking site,1.0,education directory/ranking site,0.6433,https://pathways2advancement.org/best-liberal-arts-colleges/,Google AI Overviews
+www.collegeadvisor.com,education directory/ranking site,1.0,education directory/ranking site,0.8732,https://www.collegeadvisor.com/resources/lowest-acceptance-rate-colleges/,Google AI Overviews
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/reel/DaA4UbgNwM9/,Google AI Overviews
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/reel/DXXpIEIgcU2/,Google AI Overviews
+www.babson.edu,competitor institution,1.0,competitor institution,0.9936,https://www.babson.edu/undergraduate/admission/admitted-students/uncover-what-awaits-you/,Google AI Overviews
+www.universityguru.com,education directory/ranking site,1.0,education directory/ranking site,0.4286,https://www.universityguru.com/business-schools-new-york,Google AI Overviews
+www.timeshighereducation.com,education directory/ranking site,1.0,earned media,0.461,https://www.timeshighereducation.com/student/best-universities/best-universities-business-degrees-united-states,Google AI Overviews
+www.quora.com,forum/community,1.0,earned media,0.3985,https://www.quora.com/What-is-the-best-business-undergraduate-program-if-location-and-price-are-not-factors-I-hear-that-Wharton-is-the-only-Ivy-League-with-a-business-undergraduate,Google AI Overviews
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/reel/DbYgu2sBtEc/,Google AI Overviews
+www.ivywise.com,other,0.5,earned media,0.6098,"https://www.ivywise.com/blog/liberal-arts-colleges-ranked/#:~:text=Established%20in%201955%2C%20Harvey%20Mudd%20produces%20graduates,for%20undergraduate%20STEM%20education%20in%20the%20U.S.",Google Gemini
+www.ivywise.com,other,0.5,earned media,0.6098,"https://www.ivywise.com/blog/liberal-arts-colleges-ranked/#:~:text=The%20academic%20year%20is%20composed%20of%20three,able%20to%20thrive%20in%20a%20fast%2Dpaced%20environment.",Google Gemini
+www.ivycoach.com,education directory/ranking site,1.0,education directory/ranking site,0.5224,"https://www.ivycoach.com/the-ivy-coach-blog/college-admissions/top-liberal-arts-colleges/#:~:text=Table_content%3A%20%7C%20College%20%2F%20University%20%7C%202026,%7C%20%7C%20Colby%20College%20%7C%2025%20%7C",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/types-of-financial-aid.html,Google AI Overviews
+scholarships360.org,education directory/ranking site,1.0,other,0.7604,https://scholarships360.org/scholarships/boston-college-merit-scholarships/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/financial-aid.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/faqs.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate.html,Google AI Overviews
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=Tepper%20School%20of%20Business%2C%20Carnegie%20Mellon.%2011.07%25*,Berkeley.%20Overall%3A%2010.49%25%20In%2Dstate%3A%2012.39%25%20Out%2Dof%2Dstate%3A%209.95%25",Google Gemini
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=The%20Integrated%20Core%3A%20A%20third%2Dyear%20immersive%20curriculum,undergraduates.%207.%20McDonough%20School%20of%20Business%2C%20Georgetown.",Google Gemini
+toptieradmissions.com,education directory/ranking site,1.0,education directory/ranking site,0.5173,https://toptieradmissions.com/colleges-strong-business-programs/#:~:text=*%20Massachusetts%20Institute%20of%20Technology%20(Sloan%20School%20of%20Management),Google Gemini
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=13.00%25%20Global%20Business%20Experience%3A%20Undergraduate%20elective%20allows,16.72%25%20In%2Dstate%3A%2034.84%25%20Out%2Dof%2Dstate%20and%20international%3A%2010.93%25*",Google Gemini
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=Table_title%3A%20Overview%20of%20the%20Top%2030%20Business,In%2Dstate%3A%2021.62%25%20Out%2Dof%2Dstate%20and%20international%3A%209.61%25%20%7C",Google Gemini
+www.ivywise.com,education directory/ranking site,1.0,education directory/ranking site,0.6147,"https://www.ivywise.com/blog/best-business-schools-us-undergraduate/#:~:text=McCombs%20School%20of%20Business%2C%20UT%20Austin.%20Overall%3A,Indiana.%20Overall%3A%2075.89%25%20In%2Dstate%3A%2072.24%25%20Out%2Dof%2Dstate%3A%2078.58%25",Google Gemini
+poetsandquants.com,education directory/ranking site,1.0,education directory/ranking site,0.9316,https://poetsandquants.com/2026/03/26/poetsquants-best-undergraduate-business-schools-of-2026/,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/about.html#:~:text=Honor%20the%20inherent%20dignity%20of%20each%20member,cura%20personalis%20(care%20for%20the%20whole%20person).",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html#:~:text=Stokes%20Set%20is%20CAB's%20highly%20anticipated%20annual,Trust.%20View%20video.%20*%20Student%20Involvement%20Fair.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing.html#:~:text=The%20majority%20of%20Boston%20College%20students%20receive,page.%20Off%2DCampus%20Housing.%20Housing%20Assignments%20Page.%20Seniors.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html#:~:text=*%20Mudstock%20%26%20Modstock.%20Mudstock%20and%20Modstock,where%20students%20compete%20for%20the%20Mudstock%20championship.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing.html#:~:text=Transfer%20Students.%20The%20majority%20of%20Boston%20College,and%20last%20year%20on%20campus.%20Housing%20Appeals.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html#:~:text=This%20year%2C%20Homecoming%20will%20encompass%20athletic%20events%2C,make%20their%20way%20to%20the%20finish%20line.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing.html,Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html#:~:text=Kicking%20off%20early%20on%20the%20final%20day,in%20unforgettable%20style.%20View%20video.%20*%20Showdown.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html#:~:text=View%20video.%20*%20Showdown.%20Showcasing%20months%20of,Lawn%20into%20a%20dynamic%20outdoor%20music%20venue.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html#:~:text=Over%20the%20years%2C%20it%20has%20showcased%20an,the%20incoming%20class%20and%20highlight%20extra%2Dcurricular%20opportunities.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics/undergraduate-programs.html,Google AI Overviews
+en.wikipedia.org,other,0.5,forum/community,0.398,https://en.wikipedia.org/wiki/Boston_College_Carroll_School_of_Management,Google AI Overviews
+www.wallstreetoasis.com,forum/community,1.0,earned media,0.5244,https://www.wallstreetoasis.com/forum/investment-banking/boston-college-carroll-school-of-management-finance-concentration-vs,Google AI Overviews
+quantnet.com,other,0.5,forum/community,0.4888,https://quantnet.com/threads/boston-college-carroll-school-of-management-master-in-finance.56817/,Google AI Overviews
+www.mba.com,other,0.5,forum/community,0.5363,https://www.mba.com/program-finder/mba-programs/boston-college/carroll-school-of-management/mba-part-time,Google AI Overviews
+talk.collegeconfidential.com,forum/community,1.0,earned media,0.5079,https://talk.collegeconfidential.com/t/carroll-school-of-management/2090200,Google AI Overviews
+events.bc.edu,BC-owned,1.0,BC-owned,1.0,https://events.bc.edu/group/accounting_carroll_school_of_management,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/carroll-school/news/2020/jenks-leadership.html,Google AI Overviews
+scholarships360.org,education directory/ranking site,1.0,other,0.7876,"https://scholarships360.org/scholarships/catholic-scholarships/#:~:text=Do%20Catholic%20schools%20offer%20scholarships%3F%20Most%20Catholic,plus%20a%20%2420%2C000%20budget%20for%20academic%20enrichment.",Google Gemini
+scholarships360.org,education directory/ranking site,1.0,other,0.7876,"https://scholarships360.org/scholarships/catholic-scholarships/#:~:text=Boston%20College%20(Chestnut%20Hill%2C%20MA)%20Boston%20College,range%20from%20%2417%2C000%20to%20%2433%2C000%20per%20year.",Google Gemini
+scholarships360.org,education directory/ranking site,1.0,other,0.7876,"https://scholarships360.org/scholarships/catholic-scholarships/#:~:text=Sister%20Thea%20Bowman%20Black%20Catholic%20Scholarship.%20Offered,Sister%20Thea%20Bowman%20Black%20Catholic%20Educational%20Foundation.",Google Gemini
+www.collegeraptor.com,education directory/ranking site,1.0,education directory/ranking site,0.9669,"https://www.collegeraptor.com/college-rankings/details/SchoolRanking/Religious-Affiliation/Roman-Catholic/#:~:text=32519.%2085717.%20%233.%20*%20Boston%20College.%20Chestnut,1%2C440%20%E2%80%93%201%2C540.%20Avg.%20Net%20Price.%20%2432%2C519.",Google Gemini
+www.collegeraptor.com,education directory/ranking site,1.0,education directory/ranking site,0.9669,"https://www.collegeraptor.com/college-rankings/details/SchoolRanking/Religious-Affiliation/Roman-Catholic/#:~:text=*%20University%20of%20Notre%20Dame.%20Notre%20Dame%2C,Their%20mascot%20is%20the%20very%20iconic%20Leprechaun",Google Gemini
+www.collegeraptor.com,education directory/ranking site,1.0,education directory/ranking site,0.9669,"https://www.collegeraptor.com/college-rankings/details/SchoolRanking/Religious-Affiliation/Roman-Catholic/#:~:text=Sign%20in%20to%20see%20your%20Estimated%20Net,play%20in%20the%20NBA%2C%20NFL%2C%20and%20MLB",Google Gemini
+scholarships360.org,education directory/ranking site,1.0,other,0.7876,"https://scholarships360.org/scholarships/catholic-scholarships/#:~:text=Santa%20Clara%20University%20(Santa%20Clara%2C%20CA)%20*,students%20talented%20in%20theater%2C%20art%2C%20and%20music.",Google Gemini
+www.collegeraptor.com,education directory/ranking site,1.0,education directory/ranking site,0.9669,"https://www.collegeraptor.com/college-rankings/details/SchoolRanking/Religious-Affiliation/Roman-Catholic/#:~:text=39083.%2083222.%20%232.%20*%20Georgetown%20University.%20Washington%2C,Past%20graduates%20include%20Bill%20Clinton%2C%20Lyndon%20B",Google Gemini
+www.weforum.org,forum/community,1.0,forum/community,0.5134,https://www.weforum.org/stories/education-and-skills/the-25-best-us-colleges-for-students-who-want-to-change-the-world/,Google AI Overviews
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.5584,https://blog.collegevine.com/so-you-want-to-make-a-difference-strong-college-options-for-public-service,Google AI Overviews
+www.nova.edu,competitor institution,1.0,competitor institution,0.9949,https://www.nova.edu/student-leadership/service/index.html,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.8007,"https://www.facebook.com/fb-answers/history-of-boston-college/#:~:text=On%20this%20date%20in%201909%2C%20Boston%20College,then%20the%20Tower%20Building.%20Happy%20Birthday%2C%20Gasson!",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/about/mission.html#:~:text=*%20Where%20We%20Began.%20Boston%20College%20was,the%20limitations%20of%20the%20space%2C%20then%2Dpresident%20Rev.",Google Gemini
+en.wikipedia.org,other,0.5,other,0.4428,"https://en.wikipedia.org/wiki/Boston_College#:~:text=With%20the%20approval%20of%20his%20Jesuit%20superiors%2C,typically%20awarded%20by%20colleges%20in%20the%20state.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/about/mission.html#:~:text=Thomas%20I.%20Gasson%2C%20S.J.%2C%20bought%2031%20acres,the%20national%20leader%20in%20the%20liberal%20arts%3B",Google Gemini
+www.britannica.com,education directory/ranking site,1.0,other,0.3951,"https://www.britannica.com/topic/Boston-College#:~:text=Boston%20College%2C%20the%20first%20Roman%20Catholic%20institution,opened%20its%20social%20work%20and%20business%20units.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/sites/inauguration/about-boston-college.html#:~:text=Ground%20was%20broken%20on%20June%2019%2C%201909%2C,Library%E2%80%94opened%20in%201917%2C%201924%2C%20and%201928%2C%20respectively.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/about/mission.html#:~:text=It%20opened%20its%20doors%20on%20September%205%2C,campus%2C%20today%20fondly%20known%20as%20%E2%80%9Cthe%20Heights.%E2%80%9D",Google Gemini
+en.wikipedia.org,other,0.5,other,0.4428,"https://en.wikipedia.org/wiki/Boston_College#:~:text=The%20curriculum%20was%20based%20on%20the%20Jesuit,separately%20incorporated.%20*%20Robert%20and%20Catharine%20Morris.",Google Gemini
+www.facebook.com,forum/community,1.0,forum/community,0.8007,"https://www.facebook.com/fb-answers/history-of-boston-college/#:~:text=52%20people%20talking%20about%20this.%20Boston%20College,growing%20into%20a%20major%20Jesuit%20research%20university.",Google Gemini
+www.britannica.com,education directory/ranking site,1.0,other,0.3951,"https://www.britannica.com/topic/Boston-College#:~:text=The%20campus%20was%20originally%20in%20Boston%2C%20moving,the%20order.%20*%20Growth%20of%20the%20order.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/about/mission.html#:~:text=BC%20began%20as%20an%20undergraduate%20liberal%20arts,programs%20to%20support%20students%20in%20their%20formation%3B",Google Gemini
+en.wikipedia.org,other,0.5,other,0.4428,"https://en.wikipedia.org/wiki/Boston_College#:~:text=Founded%20in%201863%20by%20the%20Society%20of,enrollment.%20Boston%20College.%20Latin%3A%20Collegium%20Bostoniense.%20Motto.",Google Gemini
+www.tiktok.com,forum/community,1.0,forum/community,0.8642,https://www.tiktok.com/@60secondscholar/video/7052156796051705135?lang=en,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/shorts/LGGhDjL2pjc,Google AI Overviews
+www.tiktok.com,forum/community,1.0,forum/community,0.8642,https://www.tiktok.com/@inspiritai/video/7427515280798010656,Google AI Overviews
+talk.collegeconfidential.com,forum/community,1.0,earned media,0.6119,https://talk.collegeconfidential.com/t/bu-vs-northeastern-vs-brandeis/1439468,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.6355,https://www.facebook.com/fb-answers/comparing-boston-university-to-other-top-us-universities/?locale=nl_BE,Google AI Overviews
+www.spainexchange.com,other,0.5,forum/community,0.3547,https://www.spainexchange.com/faq/which-is-more-prestigious-boston-college-or-boston-university-1,Google AI Overviews
+www.collegetuitioncompare.com,education directory/ranking site,1.0,education directory/ranking site,0.9145,https://www.collegetuitioncompare.com/compare/rivalry/boston-college-vs-university-of-notre-dame/,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.8875,https://www.usnews.com/best-colleges/boston-college-2128/paying,Google AI Overviews
+www.collegesimply.com,education directory/ranking site,1.0,education directory/ranking site,0.9957,https://www.collegesimply.com/colleges/compare/university-of-notre-dame-vs-villanova-university-vs-boston-college-vs-providence-college,Google AI Overviews
+orieladmissions.com,education directory/ranking site,1.0,other,0.4682,https://orieladmissions.com/notre-dame-vs-georgetown-vs-boston-college/,Google AI Overviews
+research.com,education directory/ranking site,1.0,education directory/ranking site,0.569,https://research.com/best-colleges/boston-college/tuition-fees,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.8798,https://www.usnews.com/best-colleges/compare/2128-1840/boston-college-vs-university-of-notre-dame,Google AI Overviews
+www.collegesimply.com,education directory/ranking site,1.0,education directory/ranking site,0.992,https://www.collegesimply.com/colleges/compare/trinity-college-vs-boston-college,Google AI Overviews
+www.niche.com,education directory/ranking site,1.0,education directory/ranking site,0.5912,https://www.niche.com/colleges/boston-college/cost/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/financial-aid.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,"https://www.bc.edu/bc-web/schools/carroll-school/news/2025/2026-rankings.html#:~:text=Finance%20placed%206th%20in%20its%20discipline%2C%20a,36th%20among%20best%20national%20universities.%20Read%20More.",Google Gemini
+www.facebook.com,forum/community,1.0,forum/community,0.861,https://www.facebook.com/archbishopwilliamshigh/posts/catholic-college-collaborative-spotlight-st-johns-universitythis-week-were-featu/1683608093765664/,Google AI Overviews
+www.reddit.com,forum/community,1.0,earned media,0.6274,https://www.reddit.com/r/QuestBridge/comments/1hsz3ki/two_new_england_catholic_colleges_offer_free/,Google AI Overviews
+meritplaybook.com,other,0.5,forum/community,0.6021,https://meritplaybook.com/colleges/notre-dame/merit-aid,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.6456,https://www.facebook.com/fb-answers/best-catholic-universities-financial-aid-packages-us/,Google AI Overviews
+en.wikipedia.org,other,0.5,forum/community,0.418,https://en.wikipedia.org/wiki/Georgetown_University,Google AI Overviews
+myuni.fyi,other,0.5,forum/community,0.5209,https://myuni.fyi/zh-Hant/university/college-of-the-holy-cross,Google AI Overviews
+www.oursundayvisitor.com,other,0.5,earned media,0.6493,https://www.oursundayvisitor.com/think-you-cant-afford-a-catholic-college-more-are-offering-full-tuition-options/,Google AI Overviews
+www.unigo.com,other,0.5,education directory/ranking site,0.3334,https://www.unigo.com/scholarships/religious/catholic-scholarships,Google AI Overviews
+www.reddit.com,forum/community,1.0,forum/community,0.3798,https://www.reddit.com/r/ApplyingToCollege/comments/15vngwe/boston_college_vs_northeastern/,Google AI Overviews
+www.quora.com,forum/community,1.0,other,0.7201,https://www.quora.com/Interested-in-majoring-in-business-and-have-to-pick-between-Northeastern-University-and-Boston-University-Which-school-would-be-better,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/shorts/LGGhDjL2pjc,Google AI Overviews
+blog.collegevine.com,education directory/ranking site,1.0,forum/community,0.4137,https://blog.collegevine.com/northeastern-vs-northwestern,Google AI Overviews
+www.instagram.com,forum/community,1.0,forum/community,0.5664,https://www.instagram.com/reel/Da6PPddBNrz/,Google AI Overviews
+empowerly.com,other,0.5,other,0.4948,https://empowerly.com/applications/bc-vs-bu/,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.8769,https://www.facebook.com/beasleycollege/videos/if-your-student-has-cornell-nyu-or-northeastern-on-their-college-list-dont-stop-/2499005280590312/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/mcas/computer-science.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/academics/programs.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/about.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/academics/faq.html,Google AI Overviews
+blog.collegevine.com,education directory/ranking site,1.0,forum/community,0.3237,https://blog.collegevine.com/computer-science-ba-vs-bs,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.5446,https://www.facebook.com/fb-answers/jesuit-colleges-in-the-us/?ref=related_queries,Google AI Overviews
+cardinalnewmansociety.org,other,0.5,other,0.4866,https://cardinalnewmansociety.org/belmont-abbey-college-exhibits-faith-hope-and-love-during-unusual-year/,Google AI Overviews
+president.providence.edu,competitor institution,1.0,competitor institution,0.6945,https://president.providence.edu/theological-foundations/,Google AI Overviews
+en.wikipedia.org,other,0.5,other,0.321,https://en.wikipedia.org/wiki/University_of_Notre_Dame,Google AI Overviews
+holycross.nd.edu,competitor institution,1.0,competitor institution,0.903,https://holycross.nd.edu/,Google AI Overviews
+talk.collegeconfidential.com,forum/community,1.0,education directory/ranking site,0.4289,https://talk.collegeconfidential.com/t/how-devout-is-the-catholicism-in-notre-dame-bc-and-georgetown/1314876,Google AI Overviews
+collegedunia.com,education directory/ranking site,1.0,education directory/ranking site,0.9942,https://collegedunia.com/comparison/1777-university-of-notre-dame-vs-1054-boston-college,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/academics/programs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics/undergraduate-programs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/mcas/computer-science.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/admission/financial-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/bc-news/articles/2026/spring/trustees-set-tuition-for-2026-2027.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/bc-residence-halls/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/first-year-student-housing.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/bc-residence-halls/room-and-board-rates.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/first-year-student-housing.html?utm_source=chatgpt.com,ChatGPT
+www.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.9445,https://www.collegevine.com/faq/114264/which-catholic-colleges-offer-the-most-financial-aid?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/summer-abroad.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/getting-started.html?utm_source=chatgpt.com,ChatGPT
+ccc.bc.edu,BC-owned,1.0,BC-owned,1.0,https://ccc.bc.edu/content/bc-web/academics/sites/university-catalog/policies-procedures/special-programs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad.html?utm_source=chatgpt.com,ChatGPT
+damore-mckim.northeastern.edu,competitor institution,1.0,competitor institution,0.842,https://damore-mckim.northeastern.edu/explore/key-statistics-rankings/?utm_source=chatgpt.com,ChatGPT
+damore-mckim.northeastern.edu,competitor institution,1.0,competitor institution,0.9222,https://damore-mckim.northeastern.edu/wp-content/uploads/2025/08/2024-Undergraduate-Employment-Report.pdf?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/carroll-school/about/facts-and-figures.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/careers.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/about/mission.html?utm_source=chatgpt.com,ChatGPT
+holycross.nd.edu,competitor institution,1.0,competitor institution,0.9596,https://holycross.nd.edu/mission/?utm_source=chatgpt.com,ChatGPT
+www.nd.edu,competitor institution,1.0,competitor institution,0.9955,https://www.nd.edu/faith/congregation-of-holy-cross/?utm_source=chatgpt.com,ChatGPT
+www.nd.edu,competitor institution,1.0,competitor institution,0.9982,https://www.nd.edu/about/mission/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/jesuit-catholic.html?utm_source=chatgpt.com,ChatGPT
+www.jesuits.org,other,0.5,other,0.7835,https://www.jesuits.org/ministries/boston-college/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/stm/about/jesuit-education.html?utm_source=chatgpt.com,ChatGPT
+ccc.bc.edu,BC-owned,1.0,BC-owned,1.0,https://ccc.bc.edu/content/bc-web/schools/cson/academics/undergraduate-programs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/academics/undergraduate-programs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/about.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/undergraduate/core-curriculum/about.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/carroll-school/about/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/admission/why-bc.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/about/mission.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/parents-families/academic.html?utm_source=chatgpt.com,ChatGPT
+www.benedictine.edu,competitor institution,1.0,competitor institution,0.9688,https://www.benedictine.edu/academics/great-books?utm_source=chatgpt.com,ChatGPT
+www.grinnell.edu,competitor institution,1.0,competitor institution,0.9658,https://www.grinnell.edu/academics/majors-concentrations/philosophy?utm_source=chatgpt.com,ChatGPT
+seaver.pepperdine.edu,competitor institution,1.0,competitor institution,0.9155,https://seaver.pepperdine.edu/academics/ge/great-books/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/philosophy/undergraduate/perspectives-program/perspectives1.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/research.html?utm_source=chatgpt.com,ChatGPT
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.991,https://www.cics.umass.edu/news/2026-us-news-undergraduate-rankings?utm_source=chatgpt.com,ChatGPT
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.9822,https://www.cics.umass.edu/academics/bs-or-ba-computer-science?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/mcas/computer-science.html?utm_source=chatgpt.com,ChatGPT
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.9854,https://www.cics.umass.edu/about/college-overview?utm_source=chatgpt.com,ChatGPT
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.9734,https://www.cics.umass.edu/careers?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science/academics/programs.html?utm_source=chatgpt.com,ChatGPT
+www.quora.com,forum/community,1.0,earned media,0.4185,https://www.quora.com/My-A-levels-are-ACCS-economics-and-psych-Do-I-have-a-chance-at-going-to-an-Ivy-League-if-I-want-to-pursue-finance-and-or-business,Google AI Overviews
+research.com,education directory/ranking site,1.0,forum/community,0.4575,https://research.com/online-degrees/business-administration/best-online-bachelors-in-business-administration-with-operations-coursework,Google AI Overviews
+studyinternational.com,other,0.5,earned media,0.4383,https://studyinternational.com/news/the-us-business-schools-where-leaders-are-made/,Google AI Overviews
+www.williams.edu,competitor institution,1.0,competitor institution,0.9486,https://www.williams.edu/about/strategic-plan/?utm_source=chatgpt.com,ChatGPT
+www.prnewswire.com,education directory/ranking site,1.0,education directory/ranking site,0.5655,https://www.prnewswire.com/news-releases/us-news-announces-2026-best-colleges-rankings-302563669.html?utm_source=chatgpt.com,ChatGPT
+www.bostonglobe.com,education directory/ranking site,1.0,education directory/ranking site,0.3822,https://www.bostonglobe.com/2025/09/23/metro/best-colleges-2026-new-england/?p1=BGSearch_Overlay_Results&utm_source=chatgpt.com,ChatGPT
+catalog.williams.edu,competitor institution,1.0,competitor institution,0.8435,https://catalog.williams.edu/degree-requirements/?utm_source=chatgpt.com,ChatGPT
+catalog.wesleyan.edu,competitor institution,1.0,competitor institution,0.8932,https://catalog.wesleyan.edu/curriculum/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html?utm_source=chatgpt.com,ChatGPT
+www.villanova.edu,competitor institution,1.0,competitor institution,0.9043,https://www.villanova.edu/university/financial-affairs/bursar/tuition-and-fees.html?utm_source=chatgpt.com,ChatGPT
+www.luc.edu,competitor institution,1.0,competitor institution,0.9947,https://www.luc.edu/undergrad/tuitionscholarshipsandaid/tuitionandfees/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/bc-news/articles/2026/spring/trustees-set-tuition-for-2026-2027.html?utm_source=chatgpt.com,ChatGPT
+studentaccounts.georgetown.edu,competitor institution,1.0,competitor institution,0.8787,https://studentaccounts.georgetown.edu/tuition/undergraduate/?utm_source=chatgpt.com,ChatGPT
+www.georgetown.edu,competitor institution,1.0,competitor institution,0.9537,https://www.georgetown.edu/news/announcing-fall-2026-spring-2027-tuition-rates-2/?utm_source=chatgpt.com,ChatGPT
+www.luc.edu,competitor institution,1.0,competitor institution,0.9968,https://www.luc.edu/bursar/news/boardoftrusteesapproves2026-2027operatingbudgetincludingtuitionandfees/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/admission/financial-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/carroll-school/undergraduate/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/carroll-school/about/why-carroll-school.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/academics.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/carroll-school/about/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/carroll-school/about/facts-and-figures.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/csom.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/studentaffairs/sites/careers/find-apply/law-school.html?utm_source=chatgpt.com,ChatGPT
+www.holycross.edu,competitor institution,1.0,competitor institution,0.9763,https://www.holycross.edu/academics/program/prelaw?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/law/careers/employment-statistics.html?utm_source=chatgpt.com,ChatGPT
+www.holycross.edu,competitor institution,1.0,competitor institution,0.9459,https://www.holycross.edu/about-holy-cross/at-a-glance?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/types-of-financial-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/admission/financial-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/applying-for-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/faqs.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/types-of-financial-aid.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/bc-news/articles/2026/spring/trustees-set-tuition-for-2026-2027.html?utm_source=chatgpt.com,ChatGPT
+www.sju.edu,competitor institution,1.0,competitor institution,0.9995,https://www.sju.edu/campus-ministry?utm_source=chatgpt.com,ChatGPT
+www.catholicconnect.io,other,0.5,other,0.3238,https://www.catholicconnect.io/catholic-universities?utm_source=chatgpt.com,ChatGPT
+www.francis.edu,competitor institution,1.0,competitor institution,0.9955,https://www.francis.edu/campus-ministry?utm_source=chatgpt.com,ChatGPT
+www.bostoncatholic.org,other,0.5,competitor institution,0.5568,https://www.bostoncatholic.org/college-campus-ministry?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/campus-life/sports-and-recreation.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/campus-life.html?utm_source=chatgpt.com,ChatGPT
+ccc.bc.edu,BC-owned,1.0,BC-owned,1.0,https://ccc.bc.edu/content/bc-web/offices/studentaffairs/sites/student-involvement/programs-and-services/traditions.html?utm_source=chatgpt.com,ChatGPT
+ccc.bc.edu,BC-owned,1.0,BC-owned,1.0,https://ccc.bc.edu/content/bc-web/offices/studentaffairs/sites/residential-life/about.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/campus-life/housing-and-dining.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/?utm_source=chatgpt.com,ChatGPT
+www.niche.com,education directory/ranking site,1.0,earned media,0.4551,https://www.niche.com/colleges/boston-college/campus-life/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/campus-life/student-organizations.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/sites/envstudies/academics/study-abroad/summer-winter-abroad.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/Parents.html,Google AI Overviews
+www.facebook.com,forum/community,1.0,forum/community,0.7935,https://www.facebook.com/fb-answers/study-abroad-boston-college/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/getting-started.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad/programs.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/sites/isp/academics/study-abroad.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/sites/office-of-global-education/semester-abroad.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/inauguration/tradition---history/the-presidential-medallion-and-charter.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/bc-magazine/summer-2021/features/celebrating-coeducation.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/inauguration/about-boston-college/history-of-boston-college.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/jesuit-community/about.html?utm_source=chatgpt.com,ChatGPT
+ccc.bc.edu,BC-owned,1.0,BC-owned,1.0,https://ccc.bc.edu/content/dam/bc1/offices/student-services/catalog/1617_graduate_catalog.pdf?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/about/mission.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/inauguration/about-boston-college.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/bylaws-and-statutes/Statutes.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/about/z_archive/message.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/bc-magazine/summer-2021/features/women-through-the-years.html?utm_source=chatgpt.com,ChatGPT
+findingaids.bc.edu,BC-owned,1.0,BC-owned,1.0,https://findingaids.bc.edu/agents/corporate_entities/25?utm_source=chatgpt.com,ChatGPT
+www.emmanuel.edu,competitor institution,1.0,competitor institution,0.9837,https://www.emmanuel.edu/beyond-campus/beyond-classroom/service-learning?utm_source=chatgpt.com,ChatGPT
+www.emmanuel.edu,competitor institution,1.0,competitor institution,0.9732,https://www.emmanuel.edu/about/who-we-are/mission-vision?utm_source=chatgpt.com,ChatGPT
+springfield.edu,competitor institution,1.0,competitor institution,0.8422,https://springfield.edu/about/facts?utm_source=chatgpt.com,ChatGPT
+www.emmanuel.edu,competitor institution,1.0,competitor institution,0.9905,https://www.emmanuel.edu/student-life/student-support/mission-ministry/mission-ministry/engaging-mission?utm_source=chatgpt.com,ChatGPT
+profiles.doe.mass.edu,competitor institution,1.0,competitor institution,0.8321,https://profiles.doe.mass.edu/epp/general.aspx?EPPP=True&orgcode=30000048&utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/parents-families/service.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/missionministry/sites/campus-ministry/service-immersion/4boston.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/morrissey/sites/PULSE.html?utm_source=chatgpt.com,ChatGPT
+www.villanova.edu,competitor institution,1.0,competitor institution,0.9071,https://www.villanova.edu/university/career-outcomes.html?utm_source=chatgpt.com,ChatGPT
+www.villanova.edu,competitor institution,1.0,competitor institution,0.919,https://www.villanova.edu/content/dam/villanova/careers/Outcomes/2025OutcomesBrochure.pdf?utm_source=chatgpt.com,ChatGPT
+www.villanova.edu,competitor institution,1.0,competitor institution,0.9337,https://www.villanova.edu/university/business/about-vsb/news/pressreleases/2025/0403.html?utm_source=chatgpt.com,ChatGPT
+ccc.bc.edu,BC-owned,1.0,BC-owned,1.0,https://ccc.bc.edu/content/bc-web/schools/carroll-school/undergraduate/academics.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/careers/about/post-graduation-outcomes.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/careers.html?utm_source=chatgpt.com,ChatGPT
+www.villanova.edu,competitor institution,1.0,competitor institution,0.9142,https://www.villanova.edu/content/dam/villanova/outcomes/job-functions/2025.pdf?utm_source=chatgpt.com,ChatGPT
+poetsandquants.com,education directory/ranking site,1.0,education directory/ranking site,0.8286,https://poetsandquants.com/2026/09/23/u-s-news-2027-best-undergrad-business-schools-ranking-wharton-reclaims-the-solo-crown/?utm_source=chatgpt.com,ChatGPT
+www.bu.edu,competitor institution,1.0,competitor institution,0.997,https://www.bu.edu/admissions/admitted/tuition-and-fees/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/campus-life/housing-and-dining.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/schools/carroll-school/news/2026/2027-rankings.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/bc-news/articles/2026/fall/us-news-rankings.html?utm_source=chatgpt.com,ChatGPT
+www.bu.edu,competitor institution,1.0,competitor institution,0.9975,https://www.bu.edu/admissions/why-bu/facts-and-rankings/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/about/bc-facts.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/sites/bc-news/articles/2026/spring/trustees-set-tuition-for-2026-2027.html?utm_source=chatgpt.com,ChatGPT
+www.regis.edu,competitor institution,1.0,competitor institution,0.9791,https://www.regis.edu/life-at-regis/student-activities/service-opportunities/?utm_source=chatgpt.com,ChatGPT
+today.marquette.edu,competitor institution,1.0,competitor institution,0.9096,https://today.marquette.edu/2025/10/living-the-mission-marquette-university-leads-in-community-service/?utm_source=chatgpt.com,ChatGPT
+www.loyola.edu,competitor institution,1.0,competitor institution,0.9974,https://www.loyola.edu/explore/grove/service-learning-at-loyola.html?utm_source=chatgpt.com,ChatGPT
+ignatiansolidarity.net,education directory/ranking site,1.0,other,0.5893,https://ignatiansolidarity.net/blog/2014/03/26/six-jesuit-universities-top-us-news-world-report-service-learning-rankings/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/missionministry/sites/campus-ministry/service-immersion.html?utm_source=chatgpt.com,ChatGPT
+www.gonzaga.edu,competitor institution,1.0,competitor institution,0.9895,https://www.gonzaga.edu/student-life/community-engagement-and-service/about-cce/arrupe-pathways?utm_source=chatgpt.com,ChatGPT
+www.regis.edu,competitor institution,1.0,competitor institution,0.9899,https://www.regis.edu/academics/colleges-and-schools/regis-college/academic-opportunities/center-for-service-learning?utm_source=chatgpt.com,ChatGPT
+www.sju.edu,competitor institution,1.0,competitor institution,0.9965,https://www.sju.edu/service-opportunities?utm_source=chatgpt.com,ChatGPT
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8601,"https://blog.collegevine.com/what-is-boston-college-known-for#:~:text=All%20students%20must%20complete%20BC's%20Core%20Curriculum%2C,arts%20but%20features%20a%20rigorous%20engineering%20curriculum.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8601,"https://blog.collegevine.com/what-is-boston-college-known-for#:~:text=Boston%20College%20is%20best%20known%20for%20its,*%20Clough%20School%20of%20Theology%20and%20Ministry.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8601,"https://blog.collegevine.com/what-is-boston-college-known-for#:~:text=*%20In%202021%2C%20Boston%20College%20launched%20an,and%20faculty%20to%20support%20and%20value%20students.",Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8601,"https://blog.collegevine.com/what-is-boston-college-known-for#:~:text=*%20Founded%20in%201863%2C%20Boston%20College%E2%80%94or%20simply,physical%2C%20spiritual%2C%20and%20social%20growth%20as%20well.",Google Gemini
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/most-popular-majors.html,Google Gemini
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8601,"https://blog.collegevine.com/what-is-boston-college-known-for#:~:text=The%20Jesuit%20tradition%20places%20a%20large%20emphasis,Top%2015%20Best%20Colleges%20for%20Business%20Majors.",Google Gemini
+www.collegeadvisor.com,education directory/ranking site,1.0,education directory/ranking site,0.8419,https://www.collegeadvisor.com/resources/boston-college-vs-boston-university/?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/admission/visit/hotels-directions-parking.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/global-engagement/expand-your-world/the-world-at-bc/art-cut-2026/visitor-information.html?utm_source=chatgpt.com,ChatGPT
+www.usnews.com,education directory/ranking site,1.0,earned media,0.8875,https://www.usnews.com/best-colleges/boston-college-2128,Google AI Overviews
+www.quora.com,forum/community,1.0,earned media,0.3953,https://www.quora.com/Is-Boston-College-an-elite-college,Google AI Overviews
+www.reddit.com,forum/community,1.0,education directory/ranking site,0.3486,https://www.reddit.com/r/ApplyingToCollege/comments/1i0lwqy/is_boston_college_good/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/common-data-set.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/content/bc-web/admission/apply/admission-statistics.html?utm_source=chatgpt.com,ChatGPT
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/apply/admission-statistics.html?utm_source=chatgpt.com,ChatGPT
+www.tiktok.com,forum/community,1.0,forum/community,0.8642,https://www.tiktok.com/@inspiritai/video/7427515280798010656,Google AI Overviews
+www.reddit.com,forum/community,1.0,education directory/ranking site,0.3277,https://www.reddit.com/r/ApplyingToCollege/comments/miclpu/boston_college_vs_boston_university/,Google AI Overviews
+www.universityliving.com,education directory/ranking site,1.0,education directory/ranking site,0.4699,https://www.universityliving.com/blog/admission-guide/boston-college-vs-boston-university/,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.8835,https://www.usnews.com/best-colleges/compare/2128-2130/boston-college-vs-boston-university,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/shorts/LGGhDjL2pjc,Google AI Overviews
+www.quora.com,forum/community,1.0,other,0.7101,https://www.quora.com/Which-college-is-better-Boston-University-or-Boston-College,Google AI Overviews
+blog.collegevine.com,education directory/ranking site,1.0,education directory/ranking site,0.8633,https://blog.collegevine.com/boston-college-vs-boston-university,Google AI Overviews
+www.cosmic.nyc,other,0.5,other,0.5943,https://www.cosmic.nyc/blog/boston-college-vs-boston-university-2026,Google AI Overviews
+expertadmissions.com,education directory/ranking site,1.0,education directory/ranking site,0.5509,https://expertadmissions.com/the-difference-between-boston-college-and-boston-university/,Google AI Overviews
+www.tiktok.com,forum/community,1.0,forum/community,0.8642,https://www.tiktok.com/@60secondscholar/video/7052156796051705135?lang=en,Google AI Overviews
+www.bestcollegereviews.org,education directory/ranking site,1.0,education directory/ranking site,0.5708,https://www.bestcollegereviews.org/features/best-great-book-programs/,Google AI Overviews
+wp.stolaf.edu,competitor institution,1.0,competitor institution,0.9459,https://wp.stolaf.edu/enduring-questions/about/greatbookscopy/,Google AI Overviews
+homeschoolsuccess.com,other,0.5,earned media,0.8294,https://homeschoolsuccess.com/great-books-colleges-homeschoolers/,Google AI Overviews
+www.collegexpress.com,education directory/ranking site,1.0,earned media,0.5249,https://www.collegexpress.com/lists/list/great-books-colleges/240/,Google AI Overviews
+hillsdalecollegian.com,other,0.5,earned media,0.5459,https://hillsdalecollegian.com/2016/04/hillsdales-great-books-program-ranked-no-3-in-nation/,Google AI Overviews
+www.benedictine.edu,competitor institution,1.0,competitor institution,0.9688,https://www.benedictine.edu/academics/great-books,Google AI Overviews
+www.cslewiscollege.org,education directory/ranking site,1.0,competitor institution,0.5565,https://www.cslewiscollege.org/about-us/distinctives/great-books/,Google AI Overviews
+uncommoncollege.substack.com,education directory/ranking site,1.0,education directory/ranking site,0.3055,https://uncommoncollege.substack.com/p/how-many-great-books-colleges-are,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/first-year-student-housing.html,Google AI Overviews
+bcgavel.com,other,0.5,other,0.5359,https://bcgavel.com/2014/08/02/threes-company-too-the-forced-triple/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/bc-residence-halls/residence-hall-floor-plans.html,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/shorts/7LCehg5J0o8,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/bc-residence-halls.html,Google AI Overviews
+www.youtube.com,forum/community,1.0,forum/community,0.6083,https://www.youtube.com/watch?v=HDuNJYHBxsI,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/studentaffairs/sites/residential-life/living-in-bc-housing/faq.html,Google AI Overviews
+bcgavel.com,other,0.5,other,0.7008,https://bcgavel.com/2021/02/19/a-gavel-guide-to-bcs-freshman-dorms/,Google AI Overviews
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.9854,https://www.cics.umass.edu/about/college-overview,Google AI Overviews
+computer-science-schools.com,other,0.5,other,0.5418,https://computer-science-schools.com/boston-college,Google AI Overviews
+www.umass.edu,competitor institution,1.0,competitor institution,0.9959,https://www.umass.edu/news/article/umass-amherst-places-top-30-among-public-universities-us-news-world-report-2026,Google AI Overviews
+www.campusroi.com,education directory/ranking site,1.0,other,0.7878,https://www.campusroi.com/blog/best-college-value-massachusetts/,Google AI Overviews
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.9803,https://www.cics.umass.edu/news/computer-science-graduate-program-top-10-nation,Google AI Overviews
+www.cics.umass.edu,competitor institution,1.0,competitor institution,0.991,https://www.cics.umass.edu/news/2026-us-news-undergraduate-rankings,Google AI Overviews
+www.umass.edu,competitor institution,1.0,competitor institution,0.9938,https://www.umass.edu/admissions/special-requirements-certain-majors,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.6888,https://www.usnews.com/best-colleges/boston-college-2128/overall-rankings,Google AI Overviews
+www.umass.edu,competitor institution,1.0,competitor institution,0.995,https://www.umass.edu/news/article/umass-amherst-moves-five-spots-no-24-us-news-world-reports-2027-best-public,Google AI Overviews
+www.reddit.com,forum/community,1.0,forum/community,0.5227,https://www.reddit.com/r/ApplyingToCollege/comments/dn5519/ama_freshman_at_umass_amherst_computer_science/,Google AI Overviews
+www.reddit.com,forum/community,1.0,forum/community,0.6015,https://www.reddit.com/r/bostoncollege/comments/1qc91t3/boston_college_vs_holy_cross/,Google AI Overviews
+www.usnews.com,education directory/ranking site,1.0,earned media,0.9495,https://www.usnews.com/best-graduate-schools/top-law-schools/boston-college-03072,Google AI Overviews
+talk.collegeconfidential.com,forum/community,1.0,education directory/ranking site,0.5263,https://talk.collegeconfidential.com/t/boston-college-vs-holy-cross/3658763?page=2,Google AI Overviews
+www.dcurbanmom.com,forum/community,1.0,forum/community,0.5269,https://www.dcurbanmom.com/jforum/posts/list/1249043.page,Google AI Overviews
+talk.collegeconfidential.com,forum/community,1.0,education directory/ranking site,0.5263,https://talk.collegeconfidential.com/t/boston-college-or-holy-cross/1279911,Google AI Overviews
+www.sundialessayreview.com,other,0.5,earned media,0.5939,https://www.sundialessayreview.com/questions/26390/boston-college-vs-holy-cross-which-offers-better-value-for-money,Google AI Overviews
+lawmagazine.bc.edu,BC-owned,1.0,BC-owned,1.0,https://lawmagazine.bc.edu/2026/04/bc-law-moves-to-20-in-us-news-ranking/,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/billing-student-accounts/tuition-fees.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/sites/bc-news/articles/2026/spring/trustees-set-tuition-for-2026-2027.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/admission/financial-aid.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/graduate/cost-of-attendance.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/schools/lynch-school/admission/tuition-aid.html,Google AI Overviews
+www.bc.edu,BC-owned,1.0,BC-owned,1.0,https://www.bc.edu/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html,Google AI Overviews

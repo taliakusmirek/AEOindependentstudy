@@ -1,0 +1,31 @@
+sample_id,domain,pred_baseline,pred_learned_seed,pred_learned_seed_public,pred_hybrid_seed,pred_hybrid_seed_public
+1,student-ui.prd.timeshighereducation.com,earned media,earned media,earned media,earned media,earned media
+2,www.univstats.com,other,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site
+3,www.osvnews.com,earned media,earned media,earned media,earned media,earned media
+4,www.linkedin.com,forum/community,forum/community,forum/community,forum/community,forum/community
+5,jsri.loyno.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+6,riseglobaleducation.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site
+7,www.careervillage.org,other,competitor institution,other,competitor institution,other
+8,grad.psychology.fas.harvard.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+9,sjcadmissionsblog.com,education directory/ranking site,education directory/ranking site,other,education directory/ranking site,other
+10,www.uopeople.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+11,law.yale.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+12,psych.rutgers.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+13,www.rncareers.org,other,competitor institution,other,earned media,other
+14,www.businessinsider.com,earned media,education directory/ranking site,earned media,education directory/ranking site,earned media
+15,www.edsmart.org,education directory/ranking site,other,other,other,other
+16,ingeniusprep.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site
+17,www.law.nyu.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+18,www.onlineu.com,other,education directory/ranking site,earned media,education directory/ranking site,earned media
+19,community.pepperdine.edu,forum/community,competitor institution,competitor institution,competitor institution,competitor institution
+20,researchtweet.com,other,education directory/ranking site,forum/community,education directory/ranking site,forum/community
+21,dev.comewander.ca,education directory/ranking site,other,other,other,other
+22,coa.stanford.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+23,www.collegevaluesonline.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site
+24,www.washburn.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+25,training.jacksonms.gov,other,competitor institution,other,competitor institution,other
+26,journals.plos.org,earned media,competitor institution,earned media,competitor institution,earned media
+27,report.nih.gov,other,competitor institution,other,competitor institution,other
+28,wooster.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution
+29,www.inspirafutures.com,education directory/ranking site,other,other,other,other
+30,science.indianapolis.iu.edu,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution

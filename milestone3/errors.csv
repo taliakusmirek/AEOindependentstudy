@@ -1,0 +1,98 @@
+domain,category,baseline,learned_seed,learned_seed_public,hybrid_seed,hybrid_seed_public,rows,best_confidence
+www.bc.edu,BC-owned,BC-owned,BC-owned,competitor institution,BC-owned,BC-owned,156,1.0
+guidetobu.com,education directory/ranking site,education directory/ranking site,competitor institution,other,competitor institution,other,10,1.0
+www.youtube.com,forum/community,forum/community,education directory/ranking site,forum/community,education directory/ranking site,forum/community,9,1.0
+www.bc.edu,BC-owned,BC-owned,competitor institution,competitor institution,BC-owned,BC-owned,8,1.0
+www.instagram.com,forum/community,forum/community,competitor institution,forum/community,competitor institution,forum/community,7,1.0
+www.usnews.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,7,1.0
+www.reddit.com,forum/community,forum/community,education directory/ranking site,forum/community,education directory/ranking site,forum/community,7,1.0
+ajcunet.edu,other,competitor institution,competitor institution,competitor institution,competitor institution,competitor institution,6,1.0
+empowerly.com,education directory/ranking site,other,education directory/ranking site,other,education directory/ranking site,other,6,0.5
+scholarships360.org,education directory/ranking site,education directory/ranking site,other,other,other,other,5,1.0
+www.elearners.com,education directory/ranking site,other,education directory/ranking site,other,education directory/ranking site,other,4,0.5
+catholic-link.org,earned media,other,other,other,other,other,4,0.5
+www.reddit.com,forum/community,forum/community,other,forum/community,other,forum/community,4,1.0
+www.usnews.com,education directory/ranking site,education directory/ranking site,earned media,earned media,earned media,earned media,3,1.0
+www.quora.com,forum/community,forum/community,earned media,earned media,earned media,earned media,3,1.0
+www.reddit.com,forum/community,forum/community,earned media,earned media,earned media,earned media,3,1.0
+eduniversal-ranking.com,education directory/ranking site,education directory/ranking site,other,other,other,other,3,1.0
+www.facebook.com,forum/community,forum/community,earned media,forum/community,earned media,forum/community,3,1.0
+talk.collegeconfidential.com,forum/community,forum/community,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,3,1.0
+toptieradmissions.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,education directory/ranking site,2,1.0
+www.britannica.com,earned media,education directory/ranking site,other,other,other,other,2,1.0
+blog.prepscholar.com,education directory/ranking site,other,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,2,0.5
+connection.newmanministry.com,other,other,competitor institution,other,competitor institution,other,2,0.5
+blog.collegevine.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,forum/community,education directory/ranking site,forum/community,2,1.0
+www.quora.com,forum/community,forum/community,other,other,other,other,2,1.0
+www.universityliving.com,other,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,2,1.0
+www.ivywise.com,education directory/ranking site,other,earned media,earned media,earned media,earned media,2,0.5
+talk.collegeconfidential.com,forum/community,forum/community,education directory/ranking site,earned media,education directory/ranking site,earned media,2,1.0
+computer-science-schools.com,earned media,other,other,other,other,other,1,0.5
+cardinalnewmansociety.org,competitor institution,other,competitor institution,other,competitor institution,other,1,0.5
+austindiocese.org,competitor institution,other,competitor institution,competitor institution,competitor institution,competitor institution,1,0.5
+bcgavel.com,earned media,other,forum/community,other,forum/community,other,1,0.5
+bcgavel.com,earned media,other,other,other,other,other,1,0.5
+research.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,forum/community,education directory/ranking site,forum/community,1,1.0
+quantnet.com,earned media,other,forum/community,forum/community,forum/community,forum/community,1,0.5
+pathways2advancement.org,earned media,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+orieladmissions.com,education directory/ranking site,education directory/ranking site,other,other,education directory/ranking site,other,1,1.0
+myuni.fyi,education directory/ranking site,other,other,forum/community,other,forum/community,1,0.5
+meritplaybook.com,education directory/ranking site,other,education directory/ranking site,forum/community,education directory/ranking site,forum/community,1,0.5
+lawmagazine.bc.edu,BC-owned,BC-owned,competitor institution,competitor institution,BC-owned,BC-owned,1,1.0
+lacatholics.org,competitor institution,other,other,other,other,other,1,0.5
+ignatiansolidarity.net,competitor institution,education directory/ranking site,competitor institution,other,other,other,1,1.0
+homeschoolsuccess.com,other,other,earned media,earned media,earned media,earned media,1,0.5
+hillsdalecollegian.com,earned media,other,competitor institution,earned media,competitor institution,earned media,1,0.5
+globalcatholicresourcecenter.com,other,other,earned media,earned media,earned media,earned media,1,0.5
+expertadmissions.com,other,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+findingaids.bc.edu,BC-owned,BC-owned,competitor institution,competitor institution,BC-owned,BC-owned,1,1.0
+events.bc.edu,BC-owned,BC-owned,BC-owned,competitor institution,BC-owned,BC-owned,1,1.0
+en.wikipedia.org,other,other,other,forum/community,other,forum/community,1,0.5
+archsa.org,competitor institution,other,competitor institution,competitor institution,competitor institution,competitor institution,1,0.5
+en.wikipedia.org,other,other,education directory/ranking site,other,education directory/ranking site,other,1,0.5
+en.wikipedia.org,other,other,competitor institution,forum/community,competitor institution,forum/community,1,0.5
+ccc.bc.edu,BC-owned,BC-owned,BC-owned,competitor institution,BC-owned,BC-owned,1,1.0
+uncommoncollege.substack.com,earned media,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+www.campusroi.com,earned media,education directory/ranking site,education directory/ranking site,other,education directory/ranking site,other,1,1.0
+www.catholicconnect.io,other,other,competitor institution,competitor institution,competitor institution,other,1,0.5
+www.academicjobs.com,other,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.bostonglobe.com,earned media,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+www.bostoncatholic.org,competitor institution,other,competitor institution,competitor institution,competitor institution,competitor institution,1,0.5
+www.bestcollegereviews.org,earned media,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+www.aacsb.edu,competitor institution,competitor institution,other,competitor institution,competitor institution,competitor institution,1,1.0
+udallas.smartcatalogiq.com,other,other,competitor institution,competitor institution,competitor institution,competitor institution,1,0.5
+thestudentsublet.com,other,other,other,earned media,earned media,earned media,1,0.5
+studyinternational.com,earned media,other,education directory/ranking site,earned media,education directory/ranking site,earned media,1,0.5
+research.com,education directory/ranking site,other,education directory/ranking site,forum/community,education directory/ranking site,forum/community,1,0.5
+www.greatvaluecolleges.net,education directory/ranking site,education directory/ranking site,education directory/ranking site,other,education directory/ranking site,other,1,1.0
+www.innercityscholarshipfund.org,other,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+www.facebook.com,forum/community,forum/community,education directory/ranking site,forum/community,education directory/ranking site,forum/community,1,1.0
+www.facebook.com,forum/community,forum/community,other,forum/community,other,forum/community,1,1.0
+www.catholicunitedfinancial.org,other,other,education directory/ranking site,other,education directory/ranking site,other,1,0.5
+www.chronicle.com,earned media,earned media,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.collegexpress.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.cslewiscollege.org,other,education directory/ranking site,competitor institution,competitor institution,competitor institution,competitor institution,1,1.0
+www.catholicfundingguide.com,competitor institution,education directory/ranking site,other,other,other,other,1,1.0
+www.oursundayvisitor.com,earned media,other,education directory/ranking site,earned media,education directory/ranking site,earned media,1,0.5
+www.niche.com,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,education directory/ranking site,1,1.0
+www.nytimes.com,earned media,earned media,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.jesuitswest.org,other,education directory/ranking site,other,other,other,other,1,1.0
+www.lacatholicschools.org,other,other,competitor institution,competitor institution,competitor institution,competitor institution,1,0.5
+www.mba.com,other,other,forum/community,forum/community,earned media,forum/community,1,0.5
+www.newsweek.com,earned media,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.reddit.com,forum/community,forum/community,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,1,1.0
+www.princetonreview.com,education directory/ranking site,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.prnewswire.com,other,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+www.quora.com,forum/community,forum/community,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
+www.niche.com,education directory/ranking site,education directory/ranking site,earned media,earned media,earned media,earned media,1,1.0
+www.reddit.com,forum/community,forum/community,other,other,other,education directory/ranking site,1,1.0
+www.reuters.com,earned media,earned media,education directory/ranking site,education directory/ranking site,education directory/ranking site,education directory/ranking site,1,1.0
+www.scholarships.com,other,education directory/ranking site,other,other,other,other,1,1.0
+www.timeshighereducation.com,education directory/ranking site,education directory/ranking site,earned media,earned media,earned media,earned media,1,1.0
+www.sundialessayreview.com,other,other,education directory/ranking site,earned media,education directory/ranking site,earned media,1,0.5
+www.spainexchange.com,other,other,education directory/ranking site,forum/community,education directory/ranking site,forum/community,1,0.5
+www.sofi.com,other,other,earned media,forum/community,earned media,forum/community,1,0.5
+www.unigo.com,education directory/ranking site,other,education directory/ranking site,other,education directory/ranking site,education directory/ranking site,1,0.5
+www.wallstreetoasis.com,forum/community,forum/community,earned media,earned media,earned media,earned media,1,1.0
+www.weforum.org,competitor institution,forum/community,competitor institution,forum/community,competitor institution,forum/community,1,1.0
+www.wsj.com,earned media,education directory/ranking site,education directory/ranking site,earned media,education directory/ranking site,earned media,1,1.0
