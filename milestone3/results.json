@@ -659,6 +659,59 @@
       }
     }
   },
-  "agreement": null,
+  "agreement": {
+    "n": 30,
+    "agree": 22,
+    "rate": 0.7333333333333333,
+    "per_model": {
+      "baseline": 0.7333333333333333,
+      "learned_seed": 0.6666666666666666,
+      "learned_seed_public": 0.7333333333333333,
+      "hybrid_seed": 0.6666666666666666,
+      "hybrid_seed_public": 0.7333333333333333
+    },
+    "disagreements": [
+      {
+        "domain": "www.univstats.com",
+        "predicted": "other",
+        "student": "education directory/ranking site"
+      },
+      {
+        "domain": "www.careervillage.org",
+        "predicted": "other",
+        "student": "forum/community"
+      },
+      {
+        "domain": "sjcadmissionsblog.com",
+        "predicted": "education directory/ranking site",
+        "student": "competitor institution"
+      },
+      {
+        "domain": "www.rncareers.org",
+        "predicted": "other",
+        "student": "education directory/ranking site"
+      },
+      {
+        "domain": "www.onlineu.com",
+        "predicted": "other",
+        "student": "education directory/ranking site"
+      },
+      {
+        "domain": "community.pepperdine.edu",
+        "predicted": "forum/community",
+        "student": "competitor institution"
+      },
+      {
+        "domain": "dev.comewander.ca",
+        "predicted": "education directory/ranking site",
+        "student": "other"
+      },
+      {
+        "domain": "journals.plos.org",
+        "predicted": "earned media",
+        "student": "other"
+      }
+    ]
+  },
   "unseen_pool_hosts": 284
 }
