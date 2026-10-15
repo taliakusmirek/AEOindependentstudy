@@ -12,6 +12,6 @@ seed: 524 rows, 156 hosts | public: 1200 rows
   grouped CV     hybrid_seed          acc=0.748+/-0.008 accExclBC=0.623 macroF1=0.515
   grouped CV     hybrid_seed_public   acc=0.787+/-0.005 accExclBC=0.682 macroF1=0.655
 better-performing model (mean grouped-CV accuracy): baseline
-manual_check_sheet.csv: 30 unseen domains (pool of 284)
+manual_check_sheet.csv already has your_category entries -> left untouched (manual_check_models.csv also left untouched)
 wrote results.json classified_output.csv manual_check_sheet.csv errors.csv model.joblib
 built eval_report.pdf

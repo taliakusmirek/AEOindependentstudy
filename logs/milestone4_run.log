@@ -1,5 +1,5 @@
 == Milestone 4: tagging layer, tests, synthetic agent demo
-wrote /home/claude/AEOindependentstudy/milestone4/snapshots/2026-09-30.csv  (524 citations, model=baseline)
+wrote /Users/taliakusmirek/Downloads/AEOindependentstudy/milestone4/snapshots/2026-09-30.csv  (524 citations, model=baseline)
   cohort: legacy=524
   intent: recommendation=212, informational=178, comparison=134
   platform: google-ai-overviews=187, chatgpt=183, google-gemini=154
@@ -13,7 +13,7 @@ test_lens_excludes_rebrand_sim_and_new_platform_rows (test_pipeline.AgentAndBrie
 test_change_log_prompt_becomes_rebrand_sim (test_pipeline.Tagging.test_change_log_prompt_becomes_rebrand_sim) ... ok
 
 ----------------------------------------------------------------------
-Ran 7 tests in 2.142s
+Ran 7 tests in 1.440s
 
 OK
-wrote /home/claude/AEOindependentstudy/milestone4/tests/example_output/diff_report.json and /home/claude/AEOindependentstudy/milestone4/tests/example_output/brief.md (SYNTHETIC; 33 competitor rows relabeled forum/community)
+wrote /Users/taliakusmirek/Downloads/AEOindependentstudy/milestone4/tests/example_output/diff_report.json and /Users/taliakusmirek/Downloads/AEOindependentstudy/milestone4/tests/example_output/brief.md (SYNTHETIC; 33 competitor rows relabeled forum/community)

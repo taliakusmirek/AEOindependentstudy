@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T23:58:03+00:00",
+  "generated_at": "2026-10-15T00:26:13+00:00",
   "note": "SYNTHETIC FIXTURE - fabricated changes to test the agent; not real citation data",
   "current_snapshot": {
-    "path": "/home/claude/AEOindependentstudy/milestone4/tests/example_output/snapshot_b_SYNTHETIC.csv",
+    "path": "/Users/taliakusmirek/Downloads/AEOindependentstudy/milestone4/tests/example_output/snapshot_b_SYNTHETIC.csv",
     "date": "2099-01-08",
     "rows": 524
   },
   "previous_snapshot": {
-    "path": "/home/claude/AEOindependentstudy/milestone4/tests/example_output/snapshot_a_SYNTHETIC.csv",
+    "path": "/Users/taliakusmirek/Downloads/AEOindependentstudy/milestone4/tests/example_output/snapshot_a_SYNTHETIC.csv",
     "date": "2099-01-01",
     "rows": 524
   },
